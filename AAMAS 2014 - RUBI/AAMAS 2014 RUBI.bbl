@@ -1,0 +1,114 @@
+\begin{thebibliography}{10}
+
+\bibitem{AAMAS12-agmon}
+Noa Agmon and Peter Stone.
+\newblock Leading ad hoc agents in joint action settings with multiple
+  teammates.
+\newblock In {\em Proc. of 11th Int. Conf. on Autonomous Agents and Multiagent
+  Systems (AAMAS 2012)}, June 2012.
+
+\bibitem{tumer-agogino_jaamas12}
+A.~K. Agogino and K.~Tumer.
+\newblock A multiagent approach to managing air traffic flow.
+\newblock {\em Autonomous Agents and MultiAgent Systems}, 24:1--25, 2012.
+
+\bibitem{Agogino:2009:EEM:1570256.1570258}
+Adrian Agogino.
+\newblock Evaluating evolution and monte carlo for controlling air traffic
+  flow.
+\newblock In {\em Proceedings of the 11th Annual Conference Companion on
+  Genetic and Evolutionary Computation Conference: Late Breaking Papers}, GECCO
+  '09, pages 1957--1962, New York, NY, USA, 2009. ACM.
+
+\bibitem{Agogino:2012:ELS:2330163.2330306}
+Adrian Agogino, Chris HolmesParker, and Kagan Tumer.
+\newblock Evolving large scale uav communication system.
+\newblock In {\em Proceedings of the fourteenth international conference on
+  Genetic and evolutionary computation conference}, 2012.
+
+\bibitem{Colby:2012:SFF:2343576.2343637}
+Mitchell Colby and Kagan Tumer.
+\newblock Shaping fitness functions for coevolving cooperative multiagent
+  systems.
+\newblock In {\em Proceedings of the 11th International Conference on
+  Autonomous Agents and Multiagent Systems}, 2012.
+
+\bibitem{Curran:2013:AHC:2484920.2485183}
+William~J. Curran, Adrian Agogino, and Kagan Tumer.
+\newblock Addressing hard constraints in the air traffic problem through
+  partitioning and difference rewards.
+\newblock In {\em Proceedings of the 2013 international conference on
+  Autonomous agents and multi-agent systems}, 2013.
+
+\bibitem{faa05}
+FAA~OPSNET data Jan-Dec~2011.
+\newblock {US} {D}epartment of {T}ransportation website.
+\newblock (http://www.faa.gov/data\_statistics/), 2011.
+
+\bibitem{Dayan93feudalreinforcement}
+Peter Dayan and Geoffrey~E. Hinton.
+\newblock Feudal reinforcement learning.
+\newblock In {\em Advances in Neural Information Processing Systems 5}, pages
+  271--278. Morgan Kaufmann, 1993.
+
+\bibitem{Hardin}
+G.~Hardin.
+\newblock The tragedy of the commons.
+\newblock {\em Science}, 162:1243–1248, December 1968.
+
+\bibitem{716791}
+M.I. Jordan and Robert~A. Jacobs.
+\newblock Hierarchical mixtures of experts and the em algorithm.
+\newblock In {\em Neural Networks, 1993. IJCNN '93-Nagoya. Proceedings of 1993
+  International Joint Conference on}, volume~2, pages 1339--1344 vol.2, 1993.
+
+\bibitem{5509316}
+G.A. Kaminka, D.~Erusalimchik, and S.~Kraus.
+\newblock Adaptive multi-robot coordination: A game-theoretic perspective.
+\newblock In {\em Robotics and Automation (ICRA), 2010 IEEE International
+  Conference on}, 2010.
+
+\bibitem{tumer-holmesparker_ala12}
+C.~Holmes Parker and K.~Tumer.
+\newblock Combining difference rewards and hierarchies for scaling to large
+  multiagent system.
+\newblock In {\em AAMAS-2012 Workshop on Adaptive and Learning Agents}.
+  Valencia, Spain, June 2012.
+
+\bibitem{Proper:2012:MDR:2343896.2344025}
+Scott Proper and Kagan Tumer.
+\newblock Modeling difference rewards for multiagent learning.
+\newblock In {\em Proceedings of the 11th International Conference on
+  Autonomous Agents and Multiagent Systems - Volume 3}, 2012.
+
+\bibitem{Reddy_learninggoal-decomposition}
+Chandra Reddy and Prasad Tadepalli.
+\newblock Learning goal-decomposition rules using exercises.
+\newblock In {\em In Proceedings of the 14th International Conference on
+  Machine Learning}, pages 278--286. Morgan Kaufmann.
+
+\bibitem{Rios}
+J.~Rios and J.~Lohn.
+\newblock A comparison of optimization approaches for nationwide traffic flow
+  management.
+\newblock In {\em Proceedings of the AIAA Guidance, Navigation, and Control
+  Conference, Chicago, Illinois}, August 2009.
+
+\bibitem{Sun98someexperiments}
+Ron Sun and Todd Peterson.
+\newblock Some experiments with a hybrid model for learning sequential decision
+  making.
+\newblock {\em Information Sciences}, 111:83--107, 1998.
+
+\bibitem{tumer-wolpert_jair02}
+D.~H. Wolpert and K.~Tumer.
+\newblock Collective intelligence, data routing and {B}raess' paradox.
+\newblock {\em Journal of Artificial Intelligence Research}, 16:359--387, 2002.
+
+\bibitem{6378284}
+Litao Yu, Yanzhong Dang, and Guangfei Yang.
+\newblock Transfer clustering via constraints generated from topics.
+\newblock In {\em Systems, Man, and Cybernetics (SMC), 2012 IEEE International
+  Conference on}, 2012.
+
+\end{thebibliography}

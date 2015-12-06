@@ -1,0 +1,34 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Qualifier.aux
+The style file: plain.bst
+Database file #1: ../thesis.bib
+Warning--entry type for "VGo" isn't style-file defined
+--line 4 of file ../thesis.bib
+I was expecting a `,' or a `}'---line 10 of file ../thesis.bib
+ : 
+ : @online{Anybots,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--entry type for "Anybots" isn't style-file defined
+--line 10 of file ../thesis.bib
+I was expecting a `,' or a `}'---line 16 of file ../thesis.bib
+ : 
+ : @online{Texai,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--entry type for "Texai" isn't style-file defined
+--line 16 of file ../thesis.bib
+A bad cross reference---entry "conf/rss/DeisenrothRF11"
+refers to entry "conf/rss/2011", which doesn't exist
+A bad cross reference---entry "conf/icml/Neumann11"
+refers to entry "conf/icml/2011", which doesn't exist
+A bad cross reference---entry "DanielAISTATS2012"
+refers to entry "p10509", which doesn't exist
+Warning--I didn't find a database entry for "conf/rss/2011"
+Warning--I didn't find a database entry for "p10509"
+Warning--I didn't find a database entry for "conf/icml/2011"
+Warning--empty institution in Braziunas03pomdpsolution
+Warning--empty institution in Clouse:1997:IAL:897377
+Warning--empty booktitle in Demiris:2002:IDP:762896.762910
+Warning--empty year in Robins
+Warning--empty publisher in Sutton98reinforcementlearning
+(There were 5 error messages)

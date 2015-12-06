@@ -1,0 +1,20 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: icra15-POMDP.aux
+The style file: plain.bst
+Database file #1: thesis.bib
+I was expecting a `,' or a `}'---line 172 of file thesis.bib
+ :    journal = "Journal of Human-Robot Interaction, Special Issue on "
+ :                                                                     Technical and Social Advances in HRI: An Invitational Issue of JHRI"",
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 223 of file thesis.bib
+ : 
+ : @online{Anybots,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 229 of file thesis.bib
+ : 
+ : @online{Texai,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--empty year in Dragan_2013_7390
+Warning--empty publisher in Sutton98reinforcementlearning
+(There were 3 error messages)

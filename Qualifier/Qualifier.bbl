@@ -1,0 +1,646 @@
+\begin{thebibliography}{100}
+
+\bibitem{A_programmingfull-body}
+Aleš~Ude A, Christopher G.~Atkeson A, and Marcia~Riley D.
+\newblock Programming full-body movements for humanoid robots by observation.
+
+\bibitem{Abbeel:2004:ALV:1015330.1015430}
+Pieter Abbeel and Andrew~Y. Ng.
+\newblock Apprenticeship learning via inverse reinforcement learning.
+\newblock In {\em Proceedings of the Twenty-first International Conference on
+  Machine Learning}, ICML '04, pages 1--, New York, NY, USA, 2004. ACM.
+
+\bibitem{akgun12hri}
+B.~Akgun, M.~Cakmak, J.~W. Yoo, and A.L. Thomaz.
+\newblock Trajectories and keyframes for kinesthetic teaching: A human-robot
+  interaction perspective.
+\newblock In {\em Proceedings of the International Conference on Human-Robot
+  Interaction (HRI)}, 2012.
+
+\bibitem{1011867}
+R.~Amit and M.~Matari.
+\newblock Learning movement sequences from demonstration.
+\newblock In {\em Development and Learning, 2002. Proceedings. The 2nd
+  International Conference on}, pages 203--208, 2002.
+
+\bibitem{Anybots}
+Anybots.
+\newblock Qb, 2012.
+
+\bibitem{Argall:2007:LDC:1228716.1228725}
+Brenna Argall, Brett Browning, and Manuela Veloso.
+\newblock Learning by demonstration with critique from a human teacher.
+\newblock In {\em Proceedings of the ACM/IEEE International Conference on
+  Human-robot Interaction}, HRI '07, pages 57--64, New York, NY, USA, 2007.
+  ACM.
+
+\bibitem{Argall:2009:SRL:1523530.1524008}
+Brenna~D. Argall, Sonia Chernova, Manuela Veloso, and Brett Browning.
+\newblock A survey of robot learning from demonstration.
+\newblock {\em Robot. Auton. Syst.}, 57(5):469--483, May 2009.
+
+\bibitem{Arkin:1998:BR:521898}
+Ronald~C. Arkin.
+\newblock {\em An Behavior-based Robotics}.
+\newblock MIT Press, Cambridge, MA, USA, 1st edition, 1998.
+
+\bibitem{Arkin97aura:principles}
+Ronald~C. Arkin and Tucker Balch.
+\newblock Aura: Principles and practice in review.
+\newblock {\em Journal of Experimental and Theoretical Artificial
+  Intelligence}, 9:175--189, 1997.
+
+\bibitem{6281248}
+J.A. Atherton and M.A. Goodrich.
+\newblock Perception by proxy: Humans helping robots to see in a manipulation
+  task.
+\newblock In {\em Human-Robot Interaction (HRI), 2011 6th ACM/IEEE
+  International Conference on}, pages 109--110, March 2011.
+
+\bibitem{Atkeson97locallyweighted}
+Christopher~G. Atkeson, Andreww. Moore, and Stefan Schaal.
+\newblock Locally weighted learning.
+\newblock {\em Artificial Intelligence Review}, pages 11--73, 1997.
+
+\bibitem{Atkeson97robotlearning}
+Christopher~G. Atkeson and Stefan Schaal.
+\newblock Robot learning from demonstration, 1997.
+
+\bibitem{1400783}
+M.~Baker, R.~Casey, B.~Keyes, and H.A. Yanco.
+\newblock Improved interfaces for human-robot interaction in urban search and
+  rescue.
+\newblock In {\em Systems, Man and Cybernetics, 2004 IEEE International
+  Conference on}, volume~3, pages 2960--2965 vol.3, Oct 2004.
+
+\bibitem{Baxter99directgradient-based}
+Jonathan Baxter, Lex Weaver, and Peter Bartlett.
+\newblock Direct gradient-based reinforcement learning: I. gradient estimation
+  algorithms.
+\newblock Technical report, National University, 1999.
+
+\bibitem{Bertsekas:2000:DPO:517430}
+Dimitri~P. Bertsekas.
+\newblock {\em Dynamic Programming and Optimal Control}.
+\newblock Athena Scientific, 2nd edition, 2000.
+
+\bibitem{Billard01learninghuman}
+Aude Billard and Maja Mataric.
+\newblock Learning human arm movements by imitation: Evaluation of a
+  biologically-inspired connectionist architecture.
+\newblock {\em Robotics and Autonomous Systems}, 941:1--16, 2001.
+
+\bibitem{372896}
+G.~Bolmsjo, H.~Neveryd, and H.~Eftring.
+\newblock Robotics in rehabilitation.
+\newblock {\em Rehabilitation Engineering, IEEE Transactions on}, 3(1):77--83,
+  Mar 1995.
+
+\bibitem{Bonasso95experienceswith}
+R.~Peter Bonasso, David Kortenkamp, David~P. Miller, and Marc Slack.
+\newblock Experiences with an architecture for intelligent, reactive agents.
+\newblock {\em Journal of Experimental and Theoretical Artificial
+  Intelligence}, 9:237--256, 1995.
+
+\bibitem{Braziunas03pomdpsolution}
+Darius Braziunas.
+\newblock Pomdp solution methods.
+\newblock Technical report, 2003.
+
+\bibitem{journals/ras/BreazealBBGT06}
+Cynthia Breazeal, Matt Berlin, Andrew~G. Brooks, Jesse Gray, and Andrea~Lockerd
+  Thomaz.
+\newblock Using perspective taking to learn from ambiguous demonstrations.
+\newblock {\em Robotics and Autonomous Systems}, 54(5):385--393, 2006.
+
+\bibitem{cakmak12hri}
+M.~Cakmak and A.~L. Thomaz.
+\newblock Designing robot learners that ask good questions.
+\newblock In {\em Proceedings of the International Conference on Human-Robot
+  Interaction (HRI)}, 2012.
+
+\bibitem{6251697}
+S.~Calinon and A.~Billard.
+\newblock Incremental learning of gestures by imitation in a humanoid robot.
+\newblock In {\em Human-Robot Interaction (HRI), 2007 2nd ACM/IEEE
+  International Conference on}, pages 255--262, March 2007.
+
+\bibitem{journals/ram/ChenCCGHHKKLLNPPST13}
+Tiffany~L. Chen, Matei~T. Ciocarlie, Steve~B. Cousins, Phillip~M. Grice,
+  Kelsey~P. Hawkins, Kaijen Hsiao, Charles~C. Kemp, Chih-Hung King, Daniel~A.
+  Lazewatsky, Adam Leeper, Hai Nguyen, Andreas Paepcke, Caroline Pantofaru,
+  William~D. Smart, and Leila Takayama.
+\newblock Robots for humanity: Using assistive robotics to empower people with
+  disabilities.
+\newblock {\em IEEE Robot. Automat. Mag.}, 20(1):30--39, 2013.
+
+\bibitem{Chernova:2007:CPL:1329125.1329407}
+Sonia Chernova and Manuela Veloso.
+\newblock Confidence-based policy learning from demonstration using gaussian
+  mixture models.
+\newblock In {\em Proceedings of the 6th International Joint Conference on
+  Autonomous Agents and Multiagent Systems}, AAMAS '07, pages 233:1--233:8, New
+  York, NY, USA, 2007. ACM.
+
+\bibitem{Chernova:2008:TMC:1402821.1402826}
+Sonia Chernova and Manuela Veloso.
+\newblock Teaching multi-robot coordination using demonstration of
+  communication and state sharing.
+\newblock In {\em Proceedings of the 7th International Joint Conference on
+  Autonomous Agents and Multiagent Systems - Volume 3}, AAMAS '08, pages
+  1183--1186, Richland, SC, 2008. International Foundation for Autonomous
+  Agents and Multiagent Systems.
+
+\bibitem{Clouse:1997:IAL:897377}
+J.~Clouse.
+\newblock On integrating apprentice learning and reinforcement learning.
+\newblock Technical report, Amherst, MA, USA, 1997.
+
+\bibitem{VGo}
+VGo Communications.
+\newblock Vgo, 2012.
+
+\bibitem{372890}
+J.L. Dallaway, R.D. Jackson, and P.H.A. Timmers.
+\newblock Rehabilitation robotics in europe.
+\newblock {\em Rehabilitation Engineering, IEEE Transactions on}, 3(1):35--45,
+  Mar 1995.
+
+\bibitem{DanielAISTATS2012}
+C.~Daniel, G.~Neumann, and J.~Peters.
+\newblock Hierarchical relative entropy policy search.
+\newblock In {\em Proceedings of the International Conference on Artificial
+  Intelligence and Statistics (AISTATS 2012)}, 2012.
+
+\bibitem{Dautenhahn06howmay}
+K.~Dautenhahn, M.~Walters, S.~Woods, K.~L. Koay, and C.~L. Nehaniv.
+\newblock How may i serve you?: A robot companion approaching a seated person
+  in a helping context.
+\newblock In {\em HRI ’06: Proceeding of the 1st ACM SIGCHI/SIGART conference
+  on Humanrobot interaction}, pages 172--179. ACM Press, 2006.
+
+\bibitem{journals/ftrob/DeisenrothNP13}
+Marc~Peter Deisenroth, Gerhard Neumann, and Jan Peters.
+\newblock A survey on policy search for robotics.
+\newblock {\em Foundations and Trends in Robotics}, 2(1-2):1--142, 2013.
+
+\bibitem{conf/rss/DeisenrothRF11}
+Marc~Peter Deisenroth, Carl~Edward Rasmussen, and Dieter Fox.
+\newblock Learning to control a low-cost manipulator using data-efficient
+  reinforcement learning.
+\newblock In Hugh~F. Durrant-Whyte, Nicholas Roy, and Pieter Abbeel, editors,
+  {\em Robotics: Science and Systems}, 2011.
+
+\bibitem{Demiris:2002:IDP:762896.762910}
+John Demiris and Gillian~M. Hayes.
+\newblock Imitation in animals and artifacts.
+\newblock chapter Imitation As a Dual-route Process Featuring Predictive and
+  Learning Components: A Biologically Plausible Computational Model, pages
+  327--361. MIT Press, Cambridge, MA, USA, 2002.
+
+\bibitem{Demiris05hierarchicalattentive}
+Yiannis Demiris and Bassam Khadhouri.
+\newblock Hierarchical attentive multiple models for execution and recognition
+  of actions.
+\newblock In {\em Robotics and Autonomous Systems}, pages 361--369, 2005.
+
+\bibitem{Dillmann95acquisitionof}
+R.~Dillmann, M.~Kaiser, and A.~Ude.
+\newblock Acquisition of elementary robot skills from human demonstration.
+\newblock In {\em International Symposium on Intelligent Robotics Systems},
+  pages 185--192, 1995.
+
+\bibitem{6705424}
+H.M. Do, C.J. Mouser, Ye~Gu, Weihua Sheng, S.~Honarvar, and Tingting Chen.
+\newblock An open platform telepresence robot with natural human interface.
+\newblock In {\em Cyber Technology in Automation, Control and Intelligent
+  Systems (CYBER), 2013 IEEE 3rd Annual International Conference on}, pages
+  81--86, May 2013.
+
+\bibitem{4415256}
+A.~Edsinger and C.C. Kemp.
+\newblock Human-robot interaction for cooperative manipulation: Handing objects
+  to one another.
+\newblock In {\em Robot and Human interactive Communication, 2007. RO-MAN 2007.
+  The 16th IEEE International Symposium on}, pages 1167--1172, Aug 2007.
+
+\bibitem{1639157}
+K.~Edwards, R.~Alqasemi, and R.~Dubey.
+\newblock Wheelchair-mounted robotic arms: Design and development.
+\newblock In {\em Biomedical Robotics and Biomechatronics, 2006. BioRob 2006.
+  The First IEEE/RAS-EMBS International Conference on}, pages 613--618, Feb
+  2006.
+
+\bibitem{journals/ai/Fikes93}
+Richard Fikes.
+\newblock Strips, a retrospective.
+\newblock {\em Artif. Intell.}, 59(1-2):227--232, 1993.
+
+\bibitem{Gallagher01081989}
+Dolores Gallagher, Jonathon Rose, Patricia Rivera, Steven Lovett, and Larry~W.
+  Thompson.
+\newblock Prevalence of depression in family caregivers.
+\newblock {\em The Gerontologist}, 29(4):449--456, 1989.
+
+\bibitem{Goodfellow:2010:HMH:1734454.1734536}
+Ian~J. Goodfellow, Nate Koenig, Marius Muja, Caroline Pantofaru, Alexander
+  Sorokin, and Leila Takayama.
+\newblock Help me help you: Interfaces for personal robots.
+\newblock In {\em Proceedings of the 5th ACM/IEEE International Conference on
+  Human-robot Interaction}, HRI '10, pages 187--188, Piscataway, NJ, USA, 2010.
+  IEEE Press.
+
+\bibitem{Goodrich:2007:HIS:1348099.1348100}
+Michael~A. Goodrich and Alan~C. Schultz.
+\newblock Human-robot interaction: A survey.
+\newblock {\em Found. Trends Hum.-Comput. Interact.}, 1(3):203--275, January
+  2007.
+
+\bibitem{4543716}
+D.H. Grollman and O.C. Jenkins.
+\newblock Sparse incremental learning for interactive robot control policy
+  estimation.
+\newblock In {\em Robotics and Automation, 2008. ICRA 2008. IEEE International
+  Conference on}, pages 3315--3320, May 2008.
+
+\bibitem{Heidrich-Meisner:2009:NSE:1645448.1645634}
+Verena Heidrich-Meisner and Christian Igel.
+\newblock Neuroevolution strategies for episodic reinforcement learning.
+\newblock {\em J. Algorithms}, 64(4):152--168, October 2009.
+
+\bibitem{Hillman:2002:WWM:978899.978901}
+Michael Hillman, Karen Hagan, Sean Hagan, Jill Jepson, and Roger Orpwood.
+\newblock The weston wheelchair mounted assistive robot - the design story.
+\newblock {\em Robotica}, 20(2):125--132, March 2002.
+
+\bibitem{1570701}
+Jin-Hyuk Hong, Youn-Suk Song, and Sung-Bae Cho.
+\newblock A hierarchical bayesian network for mixed-initiative human-robot
+  interaction.
+\newblock In {\em Robotics and Automation, 2005. ICRA 2005. Proceedings of the
+  2005 IEEE International Conference on}, pages 3808--3813, April 2005.
+
+\bibitem{1014739}
+A.J. Ijspeert, J.~Nakanishi, and S.~Schaal.
+\newblock Movement imitation with nonlinear dynamical systems in humanoid
+  robots.
+\newblock In {\em Robotics and Automation, 2002. Proceedings. ICRA '02. IEEE
+  International Conference on}, volume~2, pages 1398--1403, 2002.
+
+\bibitem{Ijspeert02learningrhythmic}
+Auke~Jan Ijspeert, Jun Nakanishi, and Stefan Schaal.
+\newblock Learning rhythmic movements by demonstration using nonlinear
+  oscillators.
+\newblock In {\em Proceedings of the IEEE/RSJ Int. Conference on Intelligent
+  Robots and Systems (IROS2002}, pages 958--963, 2002.
+
+\bibitem{Inamura}
+T.~Inamura, M.~Inaba, and H.~Inoue.
+\newblock Acquisition of probabilistic behavior decision model based on the
+  interactive teaching method.
+\newblock In {\em Proceedings of the Ninth International Conference on Advanced
+  Robotics}, ICAR '99, 1999.
+
+\bibitem{5654900}
+Z.S.S. Jini.
+\newblock Semantic image retrieval using relevance feedback and reinforcement
+  learning algorithm.
+\newblock In {\em I/V Communications and Mobile Network (ISVC), 2010 5th
+  International Symposium on}, pages 1--4, Sept 2010.
+
+\bibitem{Kadous:2006:EUI:1121241.1121285}
+M.~Waleed Kadous, Raymond Ka-Man Sheh, and Claude Sammut.
+\newblock Effective user interface design for rescue robotics.
+\newblock In {\em Proceedings of the 1st ACM SIGCHI/SIGART Conference on
+  Human-robot Interaction}, HRI '06, pages 250--257, New York, NY, USA, 2006.
+  ACM.
+
+\bibitem{Kalyanakrishnan:2009:EAV:1558109.1558115}
+Shivaram Kalyanakrishnan and Peter Stone.
+\newblock An empirical analysis of value function-based and policy search
+  reinforcement learning.
+\newblock In {\em Proceedings of The 8th International Conference on Autonomous
+  Agents and Multiagent Systems - Volume 2}, AAMAS '09, pages 749--756,
+  Richland, SC, 2009. International Foundation for Autonomous Agents and
+  Multiagent Systems.
+
+\bibitem{hri11c}
+Erik Karulf, Marshall Strother, Parker Dunton, and William~D. Smart.
+\newblock {RIDE}: Mixed-mode control for mobile robot teams.
+\newblock In {\em Proceedings of the 6th {ACM}/{IEEE} International Conference
+  on Human-Robot Interaction (Late Breaking Papers Track)}, Lausanne,
+  Switzerland, 2011.
+
+\bibitem{Zunaid}
+Zunaid Kazi, Shoupu Chen, Matthew Beitler, Daniel Chester, and Richard Foulds.
+\newblock Speech and gesture mediated intelligent teleoperation.
+\newblock In {\em Assistive Technology and Artificial Intelligence}, volume
+  1458 of {\em Lecture Notes in Computer Science}, pages 194--210. Springer
+  Berlin Heidelberg, 1998.
+
+\bibitem{Kober:2011:PSM:2004157.2004158}
+Jens Kober and Jan Peters.
+\newblock Policy search for motor primitives in robotics.
+\newblock {\em Mach. Learn.}, 84(1-2):171--203, July 2011.
+
+\bibitem{raey}
+Jens Kober and Jan Peters.
+\newblock Reinforcement learning in robotics: A survey.
+\newblock In {\em Reinforcement Learning}, volume~12 of {\em Adaptation,
+  Learning, and Optimization}, pages 579--610. Springer Berlin Heidelberg,
+  2012.
+
+\bibitem{kohl:icra04}
+Nate Kohl and Peter Stone.
+\newblock Policy gradient reinforcement learning for fast quadrupedal
+  locomotion.
+\newblock In {\em Proceedings of the {IEEE} International Conference on
+  Robotics and Automation}, pages 2619--2624, May 2004.
+
+\bibitem{Kristoffersson:2013:RMR:2514033.2514036}
+Annica Kristoffersson, Silvia Coradeschi, and Amy Loutfi.
+\newblock A review of mobile robotic telepresence.
+\newblock {\em Adv. in Hum.-Comp. Int.}, 2013:3:3--3:3, January 2013.
+
+\bibitem{Kulyukin:2006:RWV:1145471.1145473}
+Vladimir Kulyukin, Chaitanya Gharpure, John Nicholson, and Grayson Osborne.
+\newblock Robot-assisted wayfinding for the visually impaired in structured
+  indoor environments.
+\newblock {\em Auton. Robots}, 21(1):29--41, August 2006.
+
+\bibitem{Kwee:1998:ICM:981017.981020}
+H.~Hok Kwee.
+\newblock Integrated control of manus manipulator and wheelchair enhanced by
+  environmental docking.
+\newblock {\em Robotica}, 16(5):491--498, September 1998.
+
+\bibitem{journals/ras/LaceyD98}
+Gerard Lacey and Kenneth~M. Dawson-Howe.
+\newblock The application of robotics to a mobility aid for the elderly blind.
+\newblock {\em Robotics and Autonomous Systems}, 23(4):245--252, 1998.
+
+\bibitem{DBLP:journals/ras/LauriaBKK02}
+Stanislao Lauria, Guido Bugmann, Theocharis Kyriacou, and Ewan Klein.
+\newblock Mobile robot programming using natural language.
+\newblock {\em Robotics and Autonomous Systems}, 38(3-4):171--181, 2002.
+
+\bibitem{1442131}
+J.~Lieberman and C.~Breazeal.
+\newblock Improvements on action parsing and action interpolation for learning
+  through demonstration.
+\newblock In {\em Humanoid Robots, 2004 4th IEEE/RAS International Conference
+  on}, volume~1, pages 342--365 Vol. 1, Nov 2004.
+
+\bibitem{doi:10.1001/archsurg.142.12.1177}
+Ellison LM, Nguyen M, Fabrizio MD, Soh A, Permpongkosol S, and Kavoussi LR.
+\newblock Postoperative robotic telerounding: A multicenter randomized
+  assessment of patient outcomes and satisfaction.
+\newblock {\em Archives of Surgery}, 142(12):1177--1181, 2007.
+
+\bibitem{1389954}
+A.~Lockerd and C.~Breazeal.
+\newblock Tutelage and socially guided robot learning.
+\newblock In {\em Intelligent Robots and Systems, 2004. (IROS 2004).
+  Proceedings. 2004 IEEE/RSJ International Conference on}, volume~4, pages
+  3475--3480 vol.4, Sept 2004.
+
+\bibitem{1430829}
+M.~Lopes and J.~Santos-Victor.
+\newblock Visual learning by imitation with motor representations.
+\newblock {\em Systems, Man, and Cybernetics, Part B: Cybernetics, IEEE
+  Transactions on}, 35(3):438--449, June 2005.
+
+\bibitem{Lum}
+P.S. Lum, C.G. Burgar, P.C. Shor, M.~Majmundar, and M.~Van~der Loos.
+\newblock Robot-assisted movement training compared with conventional therapy
+  techniques for the rehabilitation of upper-limb motor function after stroke.
+\newblock In {\em Archives of Physical Medicine and Rehabilitation}, 2002.
+
+\bibitem{journals/nn/MiyamotoSGGKONWK96}
+Hiroyuki Miyamoto, Stefan Schaal, Francesca Gandolfo, Hiroaki Gomi, Yasuharu
+  Koike, Rieko Osu, Eri Nakano, Yasuhiro Wada, and Mitsuo Kawato.
+\newblock A kendama learning robot based on bi-directional theory.
+\newblock {\em Neural Networks}, 9(8):1281--1302, 1996.
+
+\bibitem{Montemerlo:2002:EMR:777092.777183}
+Michael Montemerlo, Joelle Pineau, Nicholas Roy, Sebastian Thrun, and Vandi
+  Verma.
+\newblock Experiences with a mobile robotic guide for the elderly.
+\newblock In {\em Eighteenth National Conference on Artificial Intelligence},
+  pages 587--592, Menlo Park, CA, USA, 2002. American Association for
+  Artificial Intelligence.
+
+\bibitem{1456952}
+H.P. Moravec.
+\newblock The stanford cart and the cmu rover.
+\newblock {\em Proceedings of the IEEE}, 71(7):872--884, July 1983.
+
+\bibitem{Nakanishi04learningfrom}
+Jun Nakanishi, Jun Morimoto, Gen Endo, Gordon Cheng, Stefan Schaal, and Mitsuo
+  Kawato.
+\newblock Learning from demonstration and adaptation of biped locomotion.
+\newblock {\em Robotics and Autonomous Systems}, 47:79--91, 2004.
+
+\bibitem{4399087}
+U.~Nehmzow, O.~Akanyeti, C.~Weinrich, T.~Kyriacou, and S.~A. Billings.
+\newblock Robot programming by demonstration through system identification.
+\newblock In {\em Intelligent Robots and Systems, 2007. IROS 2007. IEEE/RSJ
+  International Conference on}, pages 801--806, Oct 2007.
+
+\bibitem{conf/icml/Neumann11}
+Gerhard Neumann.
+\newblock Variational inference for policy search in changing situations.
+\newblock In {\em ICML}, pages 817--824. Omnipress, 2011.
+
+\bibitem{Ng04invertedautonomous}
+Andrew~Y. Ng, H.~Jin Kim, Michael~I. Jordan, and Shankar Sastry.
+\newblock Inverted autonomous helicopter flight via reinforcement learning.
+\newblock In {\em International Symposium on Experimental Robotics}. MIT Press,
+  2004.
+
+\bibitem{976257}
+M.N. Nicolescu and M.J. Mataric.
+\newblock Experience-based representation construction: learning from human and
+  robot teachers.
+\newblock In {\em Intelligent Robots and Systems, 2001. Proceedings. 2001
+  IEEE/RSJ International Conference on}, volume~2, pages 740--745 vol.2, 2001.
+
+\bibitem{Nielsen:2006:CUV:1121241.1121259}
+Curtis~W. Nielsen and Michael~A. Goodrich.
+\newblock Comparing the usefulness of video and map information in navigation
+  tasks.
+\newblock In {\em Proceedings of the 1st ACM SIGCHI/SIGART Conference on
+  Human-robot Interaction}, HRI '06, pages 95--101, New York, NY, USA, 2006.
+  ACM.
+
+\bibitem{journals/corr/cs-LG-0203010}
+Luís Nunes and Eugenio Oliveira.
+\newblock On learning by exchanging advice.
+\newblock {\em CoRR}, cs.LG/0203010, 2002.
+
+\bibitem{1490964}
+M.~Ogino, H.~Toichi, M.~Asada, and Y.~Yoshikawa.
+\newblock Imitation faculty based on a simple visuo-motor mapping towards
+  interaction rule learning with a human partner.
+\newblock In {\em Development and Learning, 2005. Proceedings. The 4th
+  International Conference on}, pages 148--148, July 2005.
+
+\bibitem{4399220}
+M.~Ollis, W.H. Huang, and M.~Happold.
+\newblock A bayesian approach to imitation learning for robot navigation.
+\newblock In {\em Intelligent Robots and Systems, 2007. IROS 2007. IEEE/RSJ
+  International Conference on}, pages 709--714, Oct 2007.
+
+\bibitem{810050}
+D.~Perzanowski, A.C. Schultz, W.~Adams, and E.~Marsh.
+\newblock Goal tracking in a natural language interface: towards achieving
+  adjustable autonomy.
+\newblock In {\em Computational Intelligence in Robotics and Automation, 1999.
+  CIRA '99. Proceedings. 1999 IEEE International Symposium on}, pages 208--213,
+  1999.
+
+\bibitem{4058714}
+J.~Peters and S.~Schaal.
+\newblock Policy gradient methods for robotics.
+\newblock In {\em Intelligent Robots and Systems, 2006 IEEE/RSJ International
+  Conference on}, pages 2219--2225, Oct 2006.
+
+\bibitem{Peters+MA:2010}
+Jan Peters, Katharina M{\"u}lling, and Yasemin Alt{\"u}n.
+\newblock Relative entropy policy search.
+\newblock In Maria Fox and David Poole, editors, {\em Proceedings of the
+  Twenty-Fourth AAAI Conference on Artificial Intelligence (AAAI 2010)}, pages
+  1607--1612. AAAI Press, 2010.
+
+\bibitem{5980259}
+B.~Pitzer, M.~Styer, Christian Bersch, C.~DuHadway, and J.~Becker.
+\newblock Towards perceptual shared autonomy for robotic mobile manipulation.
+\newblock In {\em Robotics and Automation (ICRA), 2011 IEEE International
+  Conference on}, pages 6245--6251, May 2011.
+
+\bibitem{Pomerleau:1991:ETA:1351011.1351019}
+Dean~A. Pomerleau.
+\newblock Efficient training of artificial neural networks for autonomous
+  navigation.
+\newblock {\em Neural Comput.}, 3(1):88--97, March 1991.
+
+\bibitem{Pook93recognizingteleoperated}
+Polly~K. Pook and Dana~H. Ballard.
+\newblock Recognizing teleoperated manipulations.
+\newblock In {\em Proceedings of the IEEE International Conference on Robotics
+  and Automation}, pages 578--585, 1993.
+
+\bibitem{Reeves:1996:MEP:236605}
+Byron Reeves and Clifford Nass.
+\newblock {\em The Media Equation: How People Treat Computers, Television, and
+  New Media Like Real People and Places}.
+\newblock Cambridge University Press, New York, NY, USA, 1996.
+
+\bibitem{Robins}
+B.~Robins, P.~Dickerson, and S.~Stribling.
+\newblock Robot-mediated joint attention in children with autism: A case study
+  in robot-human interaction.
+\newblock In {\em Integration Studies}.
+
+\bibitem{Russell:2009:AIM:1671238}
+Stuart Russell and Peter Norvig.
+\newblock {\em Artificial Intelligence: A Modern Approach}.
+\newblock Prentice Hall Press, Upper Saddle River, NJ, USA, 3rd edition, 2009.
+
+\bibitem{Rybski_2007_5670}
+Paul Rybski, Kevin Yoon, Jeremy Stolarz, and Manuela Veloso.
+\newblock Interactive robot task training through dialog and demonstration.
+\newblock In {\em 2nd ACM/IEEE International Conference on Human-Robot
+  Interaction}, March 2007.
+
+\bibitem{770051}
+P.E. Rybski and R.M. Voyles.
+\newblock Interactive task training of a mobile robot through human gesture
+  recognition.
+\newblock In {\em Robotics and Automation, 1999. Proceedings. 1999 IEEE
+  International Conference on}, volume~1, pages 664--669 vol.1, 1999.
+
+\bibitem{Saunders06teachingrobots}
+Joe Saunders, Chrystopher~L. Nehaniv, and Kerstin Dautenhahn.
+\newblock Teaching robots by moulding behavior and scaffolding the environment.
+\newblock In {\em Human-Robot Interaction}, pages 118--125. ACM Press, 2006.
+
+\bibitem{6346821}
+N.~Shirzad and H.F.M. Van~der Loos.
+\newblock Error amplification to promote motor learning and motivation in
+  therapy robotics.
+\newblock In {\em Engineering in Medicine and Biology Society (EMBC), 2012
+  Annual International Conference of the IEEE}, pages 3907--3910, Aug 2012.
+
+\bibitem{Shu:2006:NCL:1666642.1666764}
+C.~Shu, H.~Ding, and N.~Zhao.
+\newblock Numerical comparison of least square-based finite-difference (lsfd)
+  and radial basis function-based finite-difference (rbffd) methods.
+\newblock {\em Comput. Math. Appl.}, 51(8):1297--1310, April 2006.
+
+\bibitem{1014237}
+W.D. Smart and L.P. Kaelbling.
+\newblock Effective reinforcement learning for mobile robots.
+\newblock In {\em Robotics and Automation, 2002. Proceedings. ICRA '02. IEEE
+  International Conference on}, volume~4, pages 3404--3410 vol.4, 2002.
+
+\bibitem{SteilRoethlingHaschkeRitter2004-SRL}
+Jochen~J Steil, Frank Roethling, Robert Haschke, and Helge Ritter.
+\newblock Situated robot learning for multi-modal instruction and imitation of
+  grasping.
+\newblock {\em Robotics and Autonomous Systems}, Special Is(47):129--141, 2004.
+
+\bibitem{Sutton98reinforcementlearning}
+Richard~S. Sutton and Andrew~G. Barto.
+\newblock {\em Reinforcement Learning I: Introduction}.
+\newblock 1998.
+
+\bibitem{Sweeney07amodel}
+John~D. Sweeney and Rod Grupen.
+\newblock A model of shared grasp affordances from demonstration.
+\newblock In {\em Proceedings of the IEEE-RAS International Conference on
+  Humanoids Robots, Humanoids’07}, 2007.
+
+\bibitem{Thomaz:2006:RLH:1597538.1597696}
+Andrea~L. Thomaz and Cynthia Breazeal.
+\newblock Reinforcement learning with human teachers: Evidence of feedback and
+  guidance with implications for learning performance.
+\newblock In {\em Proceedings of the 21st National Conference on Artificial
+  Intelligence - Volume 1}, AAAI'06, pages 1000--1005. AAAI Press, 2006.
+
+\bibitem{475482}
+M.~Topping.
+\newblock The development of handy 1 a robotic aid to independence for the
+  severely disabled.
+\newblock In {\em Mechatronic Aids for the Disabled, IEE Colloquium on}, pages
+  2/1--2/6, May 1995.
+
+\bibitem{Voyles01amulti-agent}
+Richard~M. Voyles.
+\newblock A multi-agent system for programming robots by human demonstration.
+\newblock {\em Integrated Computer-Aided Engineering}, 8:59--67, 2001.
+
+\bibitem{Williams_usingpebbles}
+Laurel~A. Williams, Deborah~I. Fels, and Jutta Treviranus.
+\newblock Using pebbles to facilitate remote communication and learning.
+
+\bibitem{Williams92simplestatistical}
+Ronald~J. Williams.
+\newblock Simple statistical gradient-following algorithms for connectionist
+  reinforcement learning.
+\newblock In {\em Machine Learning}, pages 229--256, 1992.
+
+\bibitem{Texai}
+Inc. Willow~Garage.
+\newblock Texai remote presence system, 2010.
+
+\bibitem{Wheel}
+HollyA. Yanco.
+\newblock Wheelesley: A robotic wheelchair system: Indoor navigation and user
+  interface.
+\newblock In VibhuO. Mittal, HollyA. Yanco, John Aronis, and Richard Simpson,
+  editors, {\em Assistive Technology and Artificial Intelligence}, volume 1458
+  of {\em Lecture Notes in Computer Science}, pages 256--268. Springer Berlin
+  Heidelberg, 1998.
+
+\end{thebibliography}

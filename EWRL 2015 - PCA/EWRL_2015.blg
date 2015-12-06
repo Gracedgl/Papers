@@ -1,0 +1,36 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: EWRL_2015.aux
+The style file: plainnat.bst
+Illegal, another \bibstyle command---line 35 of file EWRL_2015.aux
+ : \bibstyle
+ :          {plainnat}
+I'm skipping whatever remains of this command
+Database file #1: ../thesis.bib
+I was expecting a `,' or a `}'---line 18 of file ../thesis.bib
+ : 
+ : year={2003},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 135 of file ../thesis.bib
+ : 
+ : @online{Anybots,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 141 of file ../thesis.bib
+ : 
+ : @online{Texai,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 1179 of file ../thesis.bib
+ : @article{Argall:2009:SRL:1523530.1524008
+ :                                         ,
+I'm skipping whatever remains of this entry
+Warning--to sort, need author or key in Pechenizkiy:features
+Warning--empty author in Pechenizkiy:features
+Warning--empty title in Pechenizkiy:features
+Warning--empty booktitle in Pechenizkiy:features
+Warning--empty publisher in Pechenizkiy:features
+Warning--empty year in Pechenizkiy:features
+Warning--empty year in Pechenizkiy:features
+Warning--empty year in Grzes::mixed
+Warning--empty year in Grzes::mixed
+(There were 5 error messages)

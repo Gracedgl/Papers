@@ -1,0 +1,25 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citeauthoryear{Argall \bgroup et al\mbox.\egroup
+  }{2009}]{Argall:2009:SRL:1523530.1524008}
+Argall, B.~D.; Chernova, S.; Veloso, M.; and Browning, B.
+\newblock 2009.
+\newblock A survey of robot learning from demonstration.
+\newblock {\em Robot. Auton. Syst.} 57(5):469--483.
+
+\bibitem[\protect\citeauthoryear{Gallagher \bgroup et al\mbox.\egroup
+  }{1989}]{Gallagher01081989}
+Gallagher, D.; Rose, J.; Rivera, P.; Lovett, S.; and Thompson, L.~W.
+\newblock 1989.
+\newblock Prevalence of depression in family caregivers.
+\newblock {\em The Gerontologist} 29(4):449--456.
+
+\bibitem[\protect\citeauthoryear{Quigley \bgroup et al\mbox.\egroup
+  }{2009}]{quigley:ros}
+Quigley, M.; Conley, K.; Gerkey, B.~P.; Faust, J.; Foote, T.; Leibs, J.;
+  Wheeler, R.; and Ng, A.~Y.
+\newblock 2009.
+\newblock {ROS}: An open-source robot operating system.
+\newblock In {\em ICRA Workshop on Open Source Software}.
+
+\end{thebibliography}

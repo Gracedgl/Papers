@@ -1,0 +1,108 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citeauthoryear{Agogino}{2009}]{Agogino:2009:EEM:1570256.1570258}
+Agogino, A.
+\newblock 2009.
+\newblock Evaluating evolution and monte carlo for controlling air traffic
+  flow.
+\newblock In {\em Proceedings of the 11th Annual Conference Companion on
+  Genetic and Evolutionary Computation Conference: Late Breaking Papers}.
+
+\bibitem[\protect\citeauthoryear{Arthur}{1994}]{BarProblem}
+Arthur, B.~W.
+\newblock 1994.
+\newblock Inductive reasoning and bounded rationality.
+\newblock In {\em American Economic Review (Papers and Proceedings)},
+  volume~84,  406--411.
+
+\bibitem[\protect\citeauthoryear{Curran, Agogino, and
+  Tumer}{2013}]{Curran:2013:AHC:2484920.2485183}
+Curran, W.~J.; Agogino, A.; and Tumer, K.
+\newblock 2013.
+\newblock Addressing hard constraints in the air traffic problem through
+  partitioning and difference rewards.
+\newblock In {\em Proceedings of the 2013 international conference on
+  Autonomous agents and multi-agent systems}.
+
+\bibitem[\protect\citeauthoryear{Dayan and
+  Hinton}{1993}]{Dayan93feudalreinforcement}
+Dayan, P., and Hinton, G.~E.
+\newblock 1993.
+\newblock Feudal reinforcement learning.
+\newblock In {\em Advances in Neural Information Processing Systems 5},
+  271--278.
+\newblock Morgan Kaufmann.
+
+\bibitem[\protect\citeauthoryear{Hardin}{December 1968}]{Hardin}
+Hardin, G.
+\newblock December 1968.
+\newblock The tragedy of the commons.
+\newblock {\em Science} 162:1243–1248.
+
+\bibitem[\protect\citeauthoryear{Jordan and Jacobs}{1993}]{716791}
+Jordan, M., and Jacobs, R.~A.
+\newblock 1993.
+\newblock Hierarchical mixtures of experts and the em algorithm.
+\newblock In {\em Neural Networks, 1993. IJCNN '93-Nagoya. Proceedings of 1993
+  International Joint Conference on}, volume~2,  1339--1344 vol.2.
+
+\bibitem[\protect\citeauthoryear{OPSNET}{2011}]{faa05}
+OPSNET, F.
+\newblock 2011.
+\newblock {US} {D}epartment of {T}ransportation website.
+\newblock (http://www.faa.gov/data\_statistics/).
+
+\bibitem[\protect\citeauthoryear{Parker and
+  Tumer}{2012}]{tumer-holmesparker_ala12}
+Parker, C.~H., and Tumer, K.
+\newblock 2012.
+\newblock Combining difference rewards and hierarchies for scaling to large
+  multiagent system.
+\newblock In {\em AAMAS-2012 Workshop on Adaptive and Learning Agents}.
+
+\bibitem[\protect\citeauthoryear{Proper and
+  Tumer}{2012}]{Proper:2012:MDR:2343896.2344025}
+Proper, S., and Tumer, K.
+\newblock 2012.
+\newblock Modeling difference rewards for multiagent learning.
+\newblock In {\em Proceedings of the 11th International Conference on
+  Autonomous Agents and Multiagent Systems - Volume 3}.
+
+\bibitem[\protect\citeauthoryear{Reddy and
+  Tadepalli}{}]{Reddy_learninggoal-decomposition}
+Reddy, C., and Tadepalli, P.
+\newblock Learning goal-decomposition rules using exercises.
+\newblock In {\em In Proceedings of the 14th International Conference on
+  Machine Learning},  278--286.
+\newblock Morgan Kaufmann.
+
+\bibitem[\protect\citeauthoryear{Rios and Lohn}{2009}]{Rios}
+Rios, J., and Lohn, J.
+\newblock 2009.
+\newblock A comparison of optimization approaches for nationwide traffic flow
+  management.
+\newblock In {\em Proceedings of the AIAA Guidance, Navigation, and Control
+  Conference, Chicago, Illinois}.
+
+\bibitem[\protect\citeauthoryear{Sun and Peterson}{1998}]{Sun98someexperiments}
+Sun, R., and Peterson, T.
+\newblock 1998.
+\newblock Some experiments with a hybrid model for learning sequential decision
+  making.
+\newblock {\em Information Sciences} 111:83--107.
+
+\bibitem[\protect\citeauthoryear{Wolpert and
+  Tumer}{2002}]{tumer-wolpert_jair02}
+Wolpert, D.~H., and Tumer, K.
+\newblock 2002.
+\newblock Collective intelligence, data routing and {B}raess' paradox.
+\newblock {\em Journal of Artificial Intelligence Research} 16:359--387.
+
+\bibitem[\protect\citeauthoryear{Yu, Dang, and Yang}{2012}]{6378284}
+Yu, L.; Dang, Y.; and Yang, G.
+\newblock 2012.
+\newblock Transfer clustering via constraints generated from topics.
+\newblock In {\em Systems, Man, and Cybernetics (SMC), 2012 IEEE International
+  Conference on}.
+
+\end{thebibliography}

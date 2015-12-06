@@ -1,0 +1,22 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: AAAI 2016 - DRRL.aux
+The style file: aaai.bst
+Database file #1: thesis.bib
+I was expecting a `,' or a `}'---line 391 of file thesis.bib
+ : 
+ : @online{Anybots,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 397 of file thesis.bib
+ : 
+ : @online{Texai,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 1435 of file thesis.bib
+ : @article{Argall:2009:SRL:1523530.1524008
+ :                                         ,
+I'm skipping whatever remains of this entry
+Warning--empty booktitle in brains-behavior-robotics
+Warning--empty booktitle in NIPSbench:05
+Warning--empty publisher in tdknn
+Warning--empty publisher in Sutton98reinforcementlearning
+(There were 3 error messages)

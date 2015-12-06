@@ -1,0 +1,20 @@
+\begin{thebibliography}{1}
+
+\bibitem{AAMAS13-curranw}
+W.~Curran, A.~K. Agogino, and K.~Tumer.
+\newblock Addressing hard constraints in the air traffic problem through
+  partitioning and difference rewards.
+\newblock In {\em Proc. of 12th Int. Conf. on Autonomous Agents and Multiagent
+  Systems (AAMAS 2013)}, May 2013.
+
+\bibitem{faa05}
+FAA~OPSNET data Jan-Dec~2011.
+\newblock {US} {D}epartment of {T}ransportation website.
+\newblock (http://www.faa.gov/data\_statistics/), 2011.
+
+\bibitem{tumer-wolpert_jair02}
+D.~H. Wolpert and K.~Tumer.
+\newblock Collective intelligence, data routing and {B}raess' paradox.
+\newblock {\em Journal of Artificial Intelligence Research}, 16:359--387, 2002.
+
+\end{thebibliography}

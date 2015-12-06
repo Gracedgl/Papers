@@ -1,0 +1,31 @@
+\begin{thebibliography}{1}
+
+\bibitem{Agogino:2009:EEM:1570256.1570258}
+Adrian Agogino.
+\newblock Evaluating evolution and monte carlo for controlling air traffic
+  flow.
+\newblock In {\em Proceedings of the 11th Annual Conference Companion on
+  Genetic and Evolutionary Computation Conference: Late Breaking Papers}, 2009.
+
+\bibitem{Curran:2013:AHC:2484920.2485183}
+William~J. Curran, Adrian Agogino, and Kagan Tumer.
+\newblock Addressing hard constraints in the air traffic problem through
+  partitioning and difference rewards.
+\newblock In {\em Proceedings of the 2013 international conference on
+  Autonomous agents and multi-agent systems}, 2013.
+
+\bibitem{tumer-holmesparker_ala12}
+C.~Holmes Parker and K.~Tumer.
+\newblock Combining difference rewards and hierarchies for scaling to large
+  multiagent system.
+\newblock In {\em AAMAS-2012 Workshop on Adaptive and Learning Agents}.
+  Valencia, Spain, June 2012.
+
+\bibitem{Rios}
+J.~Rios and J.~Lohn.
+\newblock A comparison of optimization approaches for nationwide traffic flow
+  management.
+\newblock In {\em Proceedings of the AIAA Guidance, Navigation, and Control
+  Conference, Chicago, Illinois}, August 2009.
+
+\end{thebibliography}

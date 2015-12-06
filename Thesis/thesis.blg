@@ -1,0 +1,32 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: thesis.aux
+The style file: plain.bst
+Database file #1: thesis.bib
+Repeated entry---line 299 of file thesis.bib
+ : @inproceedings{Guestrin:2002:CRL:645531.757784
+ :                                               ,
+I'm skipping whatever remains of this entry
+Name 1 in "Bilimoria, K. D., B. Sridhar, G. B. Chatterji, K. S. Shethand, and S. R. Grabbe" has a comma at the end for entry FACET
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "Bilimoria, K. D., B. Sridhar, G. B. Chatterji, K. S. Shethand, and S. R. Grabbe" for entry FACET
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "Bilimoria, K. D., B. Sridhar, G. B. Chatterji, K. S. Shethand, and S. R. Grabbe" for entry FACET
+while executing---line 1049 of file plain.bst
+Name 1 in "Liviu Panait, Keith Sullivan, and Sean Luke." has a comma at the end for entry Panait
+while executing---line 1049 of file plain.bst
+Warning--there's a number but no volume in journals/advcs/AgoginoT09
+Warning--empty year in journals/advcs/AgoginoT09
+Name 1 in "Bilimoria, K. D., B. Sridhar, G. B. Chatterji, K. S. Shethand, and S. R. Grabbe" has a comma at the end for entry FACET
+while executing---line 1090 of file plain.bst
+Too many commas in name 1 of "Bilimoria, K. D., B. Sridhar, G. B. Chatterji, K. S. Shethand, and S. R. Grabbe" for entry FACET
+while executing---line 1090 of file plain.bst
+Too many commas in name 1 of "Bilimoria, K. D., B. Sridhar, G. B. Chatterji, K. S. Shethand, and S. R. Grabbe" for entry FACET
+while executing---line 1090 of file plain.bst
+Warning--empty year in Bilimoria
+Warning--empty year in Guttmann_makingallocations
+Name 1 in "Liviu Panait, Keith Sullivan, and Sean Luke." has a comma at the end for entry Panait
+while executing---line 1090 of file plain.bst
+Warning--empty year in McNally
+Warning--empty year in Mueller_analysisof
+Warning--empty year in Reddy_learninggoal-decomposition
+Warning--empty publisher in Sutton98reinforcementlearning
+(There were 9 error messages)

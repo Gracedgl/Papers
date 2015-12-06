@@ -1,0 +1,29 @@
+\documentclass[10pt,a4paper]{letter}
+\usepackage[latin1]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb} 
+\begin{document} 
+\begin{letter}{} 
+\opening{To the AAAI-15 Committee,} 
+ 
+This is a resubmission of Agent Partitioning with Reward/Utility-Based Impact (630) that addresses the key concerns of reviewers in AAAI-14. These concerns fall in three main categories:
+
+\begin{enumerate} 
+\item An analysis of RUBI in more than one domain
+\item How RUBI is different from previously existing approaches, such as those by Zhang and Lesser (AAMAS 2009)
+\item How partitioning in general speeds up simulation in large multiagent systems. 
+\end{enumerate} 
+
+In the original paper I claim that one of the benefits of using RUBI is that it requires no modification when being used in a variety of domains. The reviewers requested that I validate this claim by including the El Farol Bar Problem results that I briefly mention in the original paper. A detailed explanation of the El Farol Bar Problem and experimental results with RUBI are now included in Sections 4.1 and 5.1, respectively.
+
+One reviewer was concerned that this work is just a different approach to resolve the same MAS issues that Zhang and Lesser had already resolved in AAMAS 2009. I added a response to this review in the background, Section 2.
+
+Lastly, some reviewers noted that it is not clear how agent partitioning speeds up computation. I now have a computational complexity analysis in Air Traffic Flow Management Problem domain description, Section 4.2. This section details how agent partitioning greatly decreases the amount of computation needed when performing reward shaping in these large MAS problems.
+
+\closing{Thank you}
+%\cc{Cclist} 
+%\ps{adding a postscript} 
+%\encl{list of enclosed material} 
+\end{letter} 
+\end{document}

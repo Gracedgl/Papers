@@ -1,0 +1,151 @@
+\begin{thebibliography}{28}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{DOI~\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{DOI~\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem[{Agmon and Stone(2012)}]{AAMAS12-agmon}
+Agmon N, Stone P (2012) Leading ad hoc agents in joint action settings with
+  multiple teammates. In: Proc. of 11th Int. Conf. on Autonomous Agents and
+  Multiagent Systems (AAMAS 2012)
+
+\bibitem[{Agogino(2009)}]{Agogino:2009:EEM:1570256.1570258}
+Agogino A (2009) Evaluating evolution and monte carlo for controlling air
+  traffic flow. In: Proceedings of the 11th Annual Conference Companion on
+  Genetic and Evolutionary Computation Conference: Late Breaking Papers
+
+\bibitem[{Agogino and Tumer(2012)}]{tumer-agogino_jaamas12}
+Agogino AK, Tumer K (2012) A multiagent approach to managing air traffic flow.
+  Autonomous Agents and MultiAgent Systems 24:1--25
+
+\bibitem[{Arthur(1994)}]{BarProblem}
+Arthur BW (1994) Inductive reasoning and bounded rationality. In: American
+  Economic Review (Papers and Proceedings), vol~84, pp 406--411
+
+\bibitem[{Bottegoni et~al(2006)Bottegoni, Rocchia, Recanatini, and
+  Cavalli}]{Bottegoni15072006}
+Bottegoni G, Rocchia W, Recanatini M, Cavalli A (2006) Aclap, autonomous
+  hierarchical agglomerative cluster analysis based protocol to partition
+  conformational datasets. Bioinformatics 22(14):e58--e65
+
+\bibitem[{Colby and Tumer(2012)}]{Colby:2012:SFF:2343576.2343637}
+Colby M, Tumer K (2012) Shaping fitness functions for coevolving cooperative
+  multiagent systems. In: Proceedings of the 11th International Conference on
+  Autonomous Agents and Multiagent Systems
+
+\bibitem[{Curran et~al(2013)Curran, Agogino, and
+  Tumer}]{Curran:2013:AHC:2484920.2485183}
+Curran WJ, Agogino A, Tumer K (2013) Addressing hard constraints in the air
+  traffic problem through partitioning and difference rewards. In: Proceedings
+  of the 2013 international conference on Autonomous agents and multi-agent
+  systems
+
+\bibitem[{Day and Edelsbrunner(1984)}]{Agglomerative}
+Day WH, Edelsbrunner H (1984) Efficient algorithms for agglomerative
+  hierarchical clustering methods. In: Journal of Classification, no.~1 in 7-24
+
+\bibitem[{Dayan and Hinton(1993)}]{Dayan93feudalreinforcement}
+Dayan P, Hinton GE (1993) Feudal reinforcement learning. In: Advances in Neural
+  Information Processing Systems 5, Morgan Kaufmann, pp 271--278
+
+\bibitem[{Hardin(December 1968)}]{Hardin}
+Hardin G (December 1968) The tragedy of the commons. Science 162:1243–1248
+
+\bibitem[{Jain(2010)}]{Jain:2010:DCY:1755267.1755654}
+Jain AK (2010) Data clustering: 50 years beyond k-means. Pattern Recogn Lett
+  31(8):651--666
+
+\bibitem[{Jordan and Jacobs(1993)}]{716791}
+Jordan M, Jacobs RA (1993) Hierarchical mixtures of experts and the em
+  algorithm. In: Neural Networks, 1993. IJCNN '93-Nagoya. Proceedings of 1993
+  International Joint Conference on, vol~2, pp 1339--1344 vol.2
+
+\bibitem[{Junges and Bazzan(2008)}]{Junges:2008:EPD:1402298.1402308}
+Junges R, Bazzan ALC (2008) Evaluating the performance of dcop algorithms in a
+  real world, dynamic problem. In: Proceedings of the 7th international joint
+  conference on Autonomous agents and multiagent systems - Volume 2,
+  International Foundation for Autonomous Agents and Multiagent Systems,
+  Richland, SC, AAMAS '08, pp 599--606,
+  \urlprefix\url{http://dl.acm.org/citation.cfm?id=1402298.1402308}
+
+\bibitem[{Kaminka et~al(2010)Kaminka, Erusalimchik, and Kraus}]{5509316}
+Kaminka G, Erusalimchik D, Kraus S (2010) Adaptive multi-robot coordination: A
+  game-theoretic perspective. In: Robotics and Automation (ICRA), 2010 IEEE
+  International Conference on
+
+\bibitem[{Manning et~al(2008)Manning, Raghavan, and
+  Sch\"{u}tze}]{Manning:2008:IIR:1394399}
+Manning CD, Raghavan P, Sch\"{u}tze H (2008) Introduction to Information
+  Retrieval. Cambridge University Press, New York, NY, USA
+
+\bibitem[{Modi et~al(2005)Modi, Shen, Tambe, and
+  Yokoo}]{Modi:2005:AAD:1120120.1120127}
+Modi PJ, Shen WM, Tambe M, Yokoo M (2005) Adopt: asynchronous distributed
+  constraint optimization with quality guarantees. Artif Intell
+  161(1-2):149--180, \doi{10.1016/j.artint.2004.09.003},
+  \urlprefix\url{http://dx.doi.org/10.1016/j.artint.2004.09.003}
+
+\bibitem[{OPSNET(2011)}]{faa05}
+OPSNET F (2011) {US} {D}epartment of {T}ransportation website,
+  (http://www.faa.gov/data\_statistics/)
+
+\bibitem[{Parker and Tumer(2012)}]{tumer-holmesparker_ala12}
+Parker CH, Tumer K (2012) Combining difference rewards and hierarchies for
+  scaling to large multiagent system. In: AAMAS-2012 Workshop on Adaptive and
+  Learning Agents, Valencia, Spain
+
+\bibitem[{Proper and Tumer(2012)}]{Proper:2012:MDR:2343896.2344025}
+Proper S, Tumer K (2012) Modeling difference rewards for multiagent learning.
+  In: Proceedings of the 11th International Conference on Autonomous Agents and
+  Multiagent Systems - Volume 3
+
+\bibitem[{Reddy and Tadepalli(1997)}]{Reddy_learninggoal-decomposition}
+Reddy C, Tadepalli P (1997) Learning goal-decomposition rules using exercises.
+  In: In Proceedings of the 14th International Conference on Machine Learning,
+  Morgan Kaufmann, pp 278--286
+
+\bibitem[{Rios and Lohn(2009)}]{Rios}
+Rios J, Lohn J (2009) A comparison of optimization approaches for nationwide
+  traffic flow management. In: Proceedings of the AIAA Guidance, Navigation,
+  and Control Conference, Chicago, Illinois
+
+\bibitem[{Sun and Peterson(1998)}]{Sun98someexperiments}
+Sun R, Peterson T (1998) Some experiments with a hybrid model for learning
+  sequential decision making. Information Sciences 111:83--107
+
+\bibitem[{Taylor and Stone(2009)}]{Taylor:2009:TLR:1577069.1755839}
+Taylor ME, Stone P (2009) Transfer learning for reinforcement learning domains:
+  A survey. J Mach Learn Res 10:1633--1685,
+  \urlprefix\url{http://dl.acm.org/citation.cfm?id=1577069.1755839}
+
+\bibitem[{Watkins and Dayan(1992)}]{Watkins92q-learning}
+Watkins CJCH, Dayan P (1992) Q-learning. In: Machine Learning, pp 279--292
+
+\bibitem[{Wolpert and Tumer(2002)}]{tumer-wolpert_jair02}
+Wolpert DH, Tumer K (2002) Collective intelligence, data routing and {B}raess'
+  paradox. Journal of Artificial Intelligence Research 16:359--387
+
+\bibitem[{Yu et~al(2012)Yu, Dang, and Yang}]{6378284}
+Yu L, Dang Y, Yang G (2012) Transfer clustering via constraints generated from
+  topics. In: Systems, Man, and Cybernetics (SMC), 2012 IEEE International
+  Conference on
+
+\bibitem[{Zhang et~al(2010)Zhang, Lesser, and
+  Abdallah}]{Zhang:2010:SCD:1838206.1838304}
+Zhang C, Lesser V, Abdallah S (2010) Self-organization for coordinating
+  decentralized reinforcement learning. In: Proceedings of the 9th
+  International Conference on Autonomous Agents and Multiagent Systems: Volume
+  1 - Volume 1, International Foundation for Autonomous Agents and Multiagent
+  Systems, Richland, SC, AAMAS '10, pp 739--746
+
+\bibitem[{Zhao and Karypis(2002)}]{Zhao:2002:EHC:584792.584877}
+Zhao Y, Karypis G (2002) Evaluation of hierarchical clustering algorithms for
+  document datasets. In: Proceedings of the eleventh international conference
+  on Information and knowledge management, ACM, New York, NY, USA, CIKM '02, pp
+  515--524
+
+\end{thebibliography}

@@ -1,0 +1,26 @@
+\begin{thebibliography}{1}
+
+\bibitem{Barto:2003:RAH:608557.608576}
+Andrew~G. Barto and Sridhar Mahadevan.
+\newblock Recent advances in hierarchical reinforcement learning.
+\newblock {\em Discrete Event Dynamic Systems}, 13(1-2):41--77, January 2003.
+
+\bibitem{Goodrich:2007:HIS:1348099.1348100}
+Michael~A. Goodrich and Alan~C. Schultz.
+\newblock Human-robot interaction: A survey.
+\newblock {\em Found. Trends Hum.-Comput. Interact.}, 1(3):203--275, January
+  2007.
+
+\bibitem{hri11c}
+Erik Karulf, Marshall Strother, Parker Dunton, and William~D. Smart.
+\newblock {RIDE}: Mixed-mode control for mobile robot teams.
+\newblock In {\em Proceedings of the 6th {ACM}/{IEEE} International Conference
+  on Human-Robot Interaction (Late Breaking Papers Track)}, Lausanne,
+  Switzerland, 2011.
+
+\bibitem{Bagnell_2013_7451}
+J.~Kober, J.~Andrew~(Drew) Bagnell, and J.~Peters.
+\newblock Reinforcement learning in robotics: A survey.
+\newblock {\em International Journal of Robotics Research}, July 2013.
+
+\end{thebibliography}

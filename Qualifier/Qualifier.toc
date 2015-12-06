@@ -1,0 +1,21 @@
+\contentsline {section}{\numberline {1}Introduction}{1}
+\contentsline {section}{\numberline {2}Reinforcement Learning}{1}
+\contentsline {subsection}{\numberline {2.1}Policy}{1}
+\contentsline {subsubsection}{\numberline {2.1.1}Value Function}{2}
+\contentsline {subsubsection}{\numberline {2.1.2}Policy Search}{3}
+\contentsline {subsection}{\numberline {2.2}Reward Function}{4}
+\contentsline {subsection}{\numberline {2.3}State Transitions}{4}
+\contentsline {section}{\numberline {3}Learning from Demonstration}{5}
+\contentsline {subsection}{\numberline {3.1}Data Acquisition}{5}
+\contentsline {subsection}{\numberline {3.2}Policy Derivation}{7}
+\contentsline {subsubsection}{\numberline {3.2.1}Machine Learning}{7}
+\contentsline {subsubsection}{\numberline {3.2.2}Reinforcement Learning}{8}
+\contentsline {section}{\numberline {4}Human-Robot Interaction}{9}
+\contentsline {subsection}{\numberline {4.1}Understanding Human-Robot Interactions}{10}
+\contentsline {subsection}{\numberline {4.2}Telepresence Robots}{11}
+\contentsline {subsection}{\numberline {4.3}Assistive Robotics}{11}
+\contentsline {section}{\numberline {5}Learning Techniques for Individuals with \\ Physical Disabilities}{12}
+\contentsline {subsection}{\numberline {5.1}Learning from Demonstration}{13}
+\contentsline {subsection}{\numberline {5.2}Semantic Mapping with Glass}{14}
+\contentsline {subsection}{\numberline {5.3}Multi-Robot Coordination}{14}
+\contentsline {section}{\numberline {6}Conclusion}{15}

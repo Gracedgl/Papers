@@ -1,0 +1,35 @@
+\documentclass{standalone}
+
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{algorithmicx}
+\usepackage{algpseudocode}
+\usepackage{algorithm}
+
+
+\begin{document}
+\begin{algorithm}
+  \caption{Reward/Utility-Based Impact Algorithm}
+  \begin{algorithmic}[1]
+    \Statex
+    \Function{RUBI}{$sim$}
+      \State{$C \leftarrow N x N$}
+	  \For{$i \leftarrow 1$ to $iterations$}     
+	    \State{$actions \leftarrow ACT()$}
+	    \State{$sim.run(actions)$}
+	    \State{$L(z) \leftarrow sim.getRewards()$}      
+		\For{$r \leftarrow 1$ to $N$}
+			\State{$sim.removeAgent(r)$}
+			\State{$L(z-z_r) \leftarrow sim.getRewards()$}
+			\For{$a \leftarrow 1$ to $N$}
+				\State{$C_{r,a} \leftarrow C_{r,a} + |L_a(z) - L_a(z-z_r) |$}
+				\EndFor
+			\State{$sim.addAgent(r)$}
+		\EndFor
+	\EndFor        
+    \EndFunction
+  \end{algorithmic}
+\end{algorithm}
+
+
+\end{document}

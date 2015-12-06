@@ -1,0 +1,5 @@
+How is this better/different than transfer learning?
+
+If a state is worthless, but has high variance (i.e. time of day when playing Mario), won't PCA think it's important?
+
+What learning approach? What ensemble approach? What Principle Components? What states? Points value of mario seems off.

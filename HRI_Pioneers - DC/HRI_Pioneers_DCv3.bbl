@@ -1,0 +1,39 @@
+\begin{thebibliography}{1}
+
+\bibitem{Argall:2009:SRL:1523530.1524008}
+Argall, B.~D., Chernova, S., Veloso, M., and Browning, B.
+\newblock A survey of robot learning from demonstration.
+\newblock {\em Robot. Auton. Syst. 57}, 5 (May 2009), 469--483.
+
+\bibitem{Gallagher01081989}
+Gallagher, D., Rose, J., Rivera, P., Lovett, S., and Thompson, L.~W.
+\newblock Prevalence of depression in family caregivers.
+\newblock {\em The Gerontologist 29}, 4 (1989), 449--456.
+
+\bibitem{Bagnell_2013_7451}
+Kober, J., Bagnell, J. A.~D., and Peters, J.
+\newblock Reinforcement learning in robotics: A survey.
+\newblock {\em International Journal of Robotics Research\/} (July 2013).
+
+\bibitem{Leeetal_IROS2013}
+Lee, A., Duan, Y., Patil, S., Schulman, J., McCarthy, Z., van~den Berg, J.,
+  Goldberg, K., and Abbeel, P.
+\newblock Sigma hulls for gaussian belief space planning for imprecise
+  articulated robots amid obstacles.
+\newblock In {\em Proceedings of the 26th IEEE/RSJ International Conference on
+  Intelligent Robots and Systems (IROS)} (2013).
+
+\bibitem{Pastor_ICRA_2009}
+Pastor, P., Hoffmann, H., Asfour, T., and Schaal, S.
+\newblock Learning and generalization of motor skills by learning from
+  demonstration.
+\newblock In {\em International Conference on Robotics and Automation
+  (ICRA2009)} (2009).
+
+\bibitem{quigley:ros}
+Quigley, M., Conley, K., Gerkey, B.~P., Faust, J., Foote, T., Leibs, J.,
+  Wheeler, R., and Ng, A.~Y.
+\newblock {ROS}: An open-source robot operating system.
+\newblock In {\em ICRA Workshop on Open Source Software} (2009).
+
+\end{thebibliography}

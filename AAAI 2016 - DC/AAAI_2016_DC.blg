@@ -1,0 +1,18 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: AAAI_2016_DC.aux
+The style file: aaai.bst
+Database file #1: thesis.bib
+I was expecting a `,' or a `}'---line 401 of file thesis.bib
+ : 
+ : @online{Anybots,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 407 of file thesis.bib
+ : 
+ : @online{Texai,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 1445 of file thesis.bib
+ : @article{Argall:2009:SRL:1523530.1524008
+ :                                         ,
+I'm skipping whatever remains of this entry
+(There were 3 error messages)

@@ -1,0 +1,214 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citeauthoryear{Albus}{1981}]{brains-behavior-robotics}
+Albus, J.~S.
+\newblock 1981.
+\newblock Brains, behavior, and robotics.
+\newblock Byte Books.
+
+\bibitem[\protect\citeauthoryear{Argall \bgroup et al\mbox.\egroup
+  }{2009}]{Argall:2009:SRL:1523530.1524008}
+Argall, B.~D.; Chernova, S.; Veloso, M.; and Browning, B.
+\newblock 2009.
+\newblock A survey of robot learning from demonstration.
+\newblock {\em Robot. Auton. Syst.} 57(5):469--483.
+
+\bibitem[\protect\citeauthoryear{Brafman and
+  Tennenholtz}{2003}]{Brafman:2003:RGP:944919.944928}
+Brafman, R.~I., and Tennenholtz, M.
+\newblock 2003.
+\newblock R-max - a general polynomial time algorithm for near-optimal
+  reinforcement learning.
+\newblock {\em J. Mach. Learn. Res.} 3:213--231.
+
+\bibitem[\protect\citeauthoryear{Curran, Agogino, and
+  Tumer}{2013}]{Curran:2013:AHC:2484920.2485183}
+Curran, W.~J.; Agogino, A.; and Tumer, K.
+\newblock 2013.
+\newblock Addressing hard constraints in the air traffic problem through
+  partitioning and difference rewards.
+\newblock In {\em Proceedings of the 2013 international conference on
+  Autonomous agents and multi-agent systems}.
+
+\bibitem[\protect\citeauthoryear{Dutech \bgroup et al\mbox.\egroup
+  }{2005}]{NIPSbench:05}
+Dutech, A.; Edmunds, T.; J.~Kok, M.~L.; Littman, M.; Riedmiller, M.; Russell,
+  B.; Scherrer, B.; Sutton, R.; Timmer, S.; Vlassis, N.; White, A.; ; and
+  Whiteson, S.
+\newblock 2005.
+\newblock {NIPS} workshop: {R}einforcement {L}earning {B}enchmarks and
+  {B}ake-offs {II}.
+
+\bibitem[\protect\citeauthoryear{Grzes and Kudenko}{2009}]{Grzes::mixed}
+Grzes, M., and Kudenko, D.
+\newblock 2009.
+\newblock Reinforcement learning with reward shaping and mixed resolution
+  function approximation.
+\newblock {\em International Journal of Agent Technologies and Systems
+  (IJATS),} 1(2):6--54.
+
+\bibitem[\protect\citeauthoryear{Haykin}{1998}]{Haykin:1998:NNC:521706}
+Haykin, S.
+\newblock 1998.
+\newblock {\em Neural Networks: A Comprehensive Foundation}.
+\newblock Upper Saddle River, NJ, USA: Prentice Hall PTR, 2nd edition.
+
+\bibitem[\protect\citeauthoryear{Jolliffe}{2002}]{PCA}
+Jolliffe, I.
+\newblock 2002.
+\newblock {\em Principal Component Analysis}.
+\newblock Springer Series in Statistics. Springer.
+
+\bibitem[\protect\citeauthoryear{Jong and Stone}{2007}]{SARA07-jong}
+Jong, N.~K., and Stone, P.
+\newblock 2007.
+\newblock Model-based exploration in continuous state spaces.
+\newblock In {\em The Seventh Symposium on Abstraction, Reformulation, and
+  Approximation}.
+
+\bibitem[\protect\citeauthoryear{Jordan and Jacobs}{1993}]{716791}
+Jordan, M., and Jacobs, R.~A.
+\newblock 1993.
+\newblock Hierarchical mixtures of experts and the em algorithm.
+\newblock In {\em Neural Networks, 1993. IJCNN '93-Nagoya. Proceedings of 1993
+  International Joint Conference on}, volume~2,  1339--1344 vol.2.
+
+\bibitem[\protect\citeauthoryear{Kaelbling, Littman, and
+  Moore}{1996}]{Kaelbling:1996:RLS:1622737.1622748}
+Kaelbling, L.~P.; Littman, M.~L.; and Moore, A.~W.
+\newblock 1996.
+\newblock Reinforcement learning: A survey.
+\newblock {\em J. Artif. Int. Res.} 4(1):237--285.
+
+\bibitem[\protect\citeauthoryear{Lathauwer, Moor, and
+  Vandewalle}{2000}]{Lathauwer:2000:MSV:354353.354398}
+Lathauwer, L.~D.; Moor, B.~D.; and Vandewalle, J.
+\newblock 2000.
+\newblock A multilinear singular value decomposition.
+\newblock {\em SIAM J. Matrix Anal. Appl.} 21(4):1253--1278.
+
+\bibitem[\protect\citeauthoryear{Liu and
+  Mahadevan}{2011}]{Liu11compressivereinforcement}
+Liu, B., and Mahadevan, S.
+\newblock 2011.
+\newblock Compressive reinforcement learning with oblique random projections.
+
+\bibitem[\protect\citeauthoryear{Mann and Choe}{2012}]{Mann2012}
+Mann, T.~A., and Choe, Y.
+\newblock 2012.
+\newblock Directed exploration in reinforcement learning with transferred
+  knowledge.
+\newblock {\em {JMLR} Workshop and Conference Proceedings: {EWRL}} 24:59--76.
+
+\bibitem[\protect\citeauthoryear{Martin~H., de Lope, and
+  Maravall}{2009}]{tdknn}
+Martin~H., J.; de~Lope, J.; and Maravall, D.
+\newblock 2009.
+\newblock The {kNN-TD} {R}einforcement {L}earning {A}lgorithm.
+\newblock In {\em Methods and Models in Artificial and Natural Computation. A
+  Homage to Professor Miras Scientific Legacy}, volume 5601 of {\em Lecture
+  Notes in Computer Science}.
+\newblock  305--314.
+
+\bibitem[\protect\citeauthoryear{Pechenizkiy, Puuronen, and
+  Tsymbal}{2003}]{Pechenizkiy:features}
+Pechenizkiy, M.; Puuronen, S.; and Tsymbal, A.
+\newblock 2003.
+\newblock Feature extraction for classification in knowledge discovery systems.
+\newblock In Palade, V.; Howlett, R.; and Jain, L., eds., {\em Knowledge-Based
+  Intelligent Information and Engineering Systems}, volume 2773 of {\em Lecture
+  Notes in Computer Science}. Springer Berlin Heidelberg.
+\newblock  526--532.
+
+\bibitem[\protect\citeauthoryear{Peters and Schaal}{2006}]{4058714}
+Peters, J., and Schaal, S.
+\newblock 2006.
+\newblock Policy gradient methods for robotics.
+\newblock In {\em Intelligent Robots and Systems, 2006 IEEE/RSJ International
+  Conference on},  2219--2225.
+
+\bibitem[\protect\citeauthoryear{Reddy and
+  Tadepalli}{1997}]{Reddy_learninggoal-decomposition}
+Reddy, C., and Tadepalli, P.
+\newblock 1997.
+\newblock Learning goal-decomposition rules using exercises.
+\newblock In {\em Proceedings of the 14th International Conference on Machine
+  Learning},  278--286.
+\newblock Morgan Kaufmann.
+
+\bibitem[\protect\citeauthoryear{Strehl, Li, and
+  Littman}{2009}]{Strehl:2009:RLF:1577069.1755867}
+Strehl, A.~L.; Li, L.; and Littman, M.~L.
+\newblock 2009.
+\newblock {Reinforcement Learning in Finite MDPs: PAC Analysis}.
+\newblock {\em J. Mach. Learn. Res.} 10:2413--2444.
+
+\bibitem[\protect\citeauthoryear{Sutton and
+  Barto}{1998}]{Sutton98reinforcementlearning}
+Sutton, R.~S., and Barto, A.~G.
+\newblock 1998.
+\newblock {\em Reinforcement Learning I: Introduction}.
+
+\bibitem[\protect\citeauthoryear{Sutton, Precup, and
+  Singh}{1999}]{Sutton:1999:MSF:319103.319108}
+Sutton, R.~S.; Precup, D.; and Singh, S.
+\newblock 1999.
+\newblock {Between MDPs and semi-MDPs: A Framework for Temporal Abstraction in
+  Reinforcement Learning}.
+\newblock {\em Artif. Intell.} 112(1-2):181--211.
+
+\bibitem[\protect\citeauthoryear{Swinehart and
+  Abbott}{2005}]{Swinehart05dimensionalreduction}
+Swinehart, C.~D., and Abbott, L.~F.
+\newblock 2005.
+\newblock Dimensional reduction for reward-based learning.
+
+\bibitem[\protect\citeauthoryear{Taylor and
+  Stone}{2009}]{Taylor:2009:TLR:1577069.1755839}
+Taylor, M.~E., and Stone, P.
+\newblock 2009.
+\newblock Transfer learning for reinforcement learning domains: A survey.
+\newblock {\em J. Mach. Learn. Res.} 10:1633--1685.
+
+\bibitem[\protect\citeauthoryear{Taylor, Kulis, and
+  Sha}{2011}]{11AAMAS-MetricLearn-Taylor}
+Taylor, M.~E.; Kulis, B.; and Sha, F.
+\newblock 2011.
+\newblock {Metric Learning for Reinforcement Learning Agents}.
+\newblock In {\em {Proceedings of the International Conference on Autonomous
+  Agents and Multiagent Systems ({AAMAS})}}.
+
+\bibitem[\protect\citeauthoryear{Taylor, Whiteson, and
+  Stone}{2007}]{AAMAS07-taylor}
+Taylor, M.~E.; Whiteson, S.; and Stone, P.
+\newblock 2007.
+\newblock Transfer via inter-task mappings in policy search reinforcement
+  learning.
+\newblock In {\em The Sixth International Joint Conference on Autonomous Agents
+  and Multiagent Systems}.
+
+\bibitem[\protect\citeauthoryear{Thomaz and
+  Breazeal}{2006}]{Thomaz:2006:RLH:1597538.1597696}
+Thomaz, A.~L., and Breazeal, C.
+\newblock 2006.
+\newblock Reinforcement learning with human teachers: Evidence of feedback and
+  guidance with implications for learning performance.
+\newblock In {\em Proceedings of the 21st National Conference on Artificial
+  Intelligence - Volume 1}, AAAI'06,  1000--1005.
+\newblock AAAI Press.
+
+\bibitem[\protect\citeauthoryear{Turk and Pentland}{1991}]{139758}
+Turk, M., and Pentland, A.
+\newblock 1991.
+\newblock Face recognition using eigenfaces.
+\newblock In {\em Computer Vision and Pattern Recognition, 1991. Proceedings
+  CVPR '91., IEEE Computer Society Conference on},  586--591.
+
+\bibitem[\protect\citeauthoryear{Whiteson, Taylor, and
+  Stone}{2007}]{whiteson:tr07}
+Whiteson, S.; Taylor, M.~E.; and Stone, P.
+\newblock 2007.
+\newblock Adaptive tile coding for value function approximation.
+\newblock Technical Report AI-TR-07-339, University of Texas at Austin.
+
+\end{thebibliography}

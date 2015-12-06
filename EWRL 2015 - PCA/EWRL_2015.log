@@ -1,0 +1,384 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.10.8)  3 JUN 2015 09:17
+entering extended mode
+**EWRL_2015.tex
+("C:\Users\Will\Documents\Papers\EWRL 2015 - PCA\EWRL_2015.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, lao, latin, lat
+vian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerm
+an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, 
+romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
+sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
+senglishmax, welsh, loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size11.clo"
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\Will\Documents\Papers\EWRL 2015 - PCA\jmlr2e.sty"
+Document Style `jmlr' -- January 2001.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\epsfig.sty"
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+\epsfxsize=\dimen105
+\epsfysize=\dimen106
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2009/06/22 v3.00
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks15
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+(C:\Users\Will\AppData\Roaming\MiKTeX\2.9\tex\latex\natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count88
+)
+\aftertitskip=\skip45
+\beforetitskip=\skip46
+\interauthorskip=\skip47
+\aftermaketitskip=\skip48
+\c@example=\count89
+\c@theorem=\count90
+)
+(C:\Users\Will\AppData\Roaming\MiKTeX\2.9\tex\latex\preprint\balance.sty
+Package: balance 1999/02/23 4.3 (PWD)
+\oldvsize=\dimen107
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\times.sty"
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\helvet.sty"
+Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\courier.sty"
+Package: courier 2005/04/12 PSNFSS-v9.2a (WaS) 
+)
+(C:\Users\Will\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\subcaption.sty
+Package: subcaption 2013/02/03 v1.1-62 Sub-captions (AR)
+
+(C:\Users\Will\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(C:\Users\Will\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen108
+\captionmargin@=\dimen109
+\captionwidth=\dimen110
+\caption@tempdima=\dimen111
+\caption@indent=\dimen112
+\caption@parindent=\dimen113
+\caption@hangindent=\dimen114
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = \long macro:#1#2-> \vskip 10pt \setbox \@
+tempboxa \hbox {#1: #2} \ifdim \wd \@tempboxa >\hsize \begin {list}{#1:}{ \sett
+owidth {\labelwidth }{#1:} \setlength {\leftmargin }{\labelwidth } \addtolength
+ {\leftmargin }{\labelsep } }\item #2 \end {list}\par \else \hbox to\hsize {\hf
+il \box \@tempboxa \hfil } \fi .
+\c@ContinuedFloat=\count91
+)
+\c@subfigure=\count92
+\c@subtable=\count93
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsmath.sty"
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen115
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen116
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count94
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count95
+\leftroot@=\count96
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count97
+\DOTSCASE@=\count98
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen117
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count99
+\c@MaxMatrixCols=\count100
+\dotsspace@=\muskip11
+\c@parentequation=\count101
+\dspbrk@lvl=\count102
+\tag@help=\toks17
+\row@=\count103
+\column@=\count104
+\maxfields@=\count105
+\andhelp@=\toks18
+\eqnshift@=\dimen118
+\alignsep@=\dimen119
+\tagshift@=\dimen120
+\tagwidth@=\dimen121
+\totwidth@=\dimen122
+\lineht@=\dimen123
+\@envbody=\toks19
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(C:\Users\Will\AppData\Roaming\MiKTeX\2.9\tex\latex\algorithmicx\algorithmicx.s
+ty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count106
+\c@ALG@rem=\count107
+\c@ALG@nested=\count108
+\ALG@tlm=\skip52
+\ALG@thistlm=\skip53
+\c@ALG@Lnr=\count109
+\c@ALG@blocknr=\count110
+\c@ALG@storecount=\count111
+\c@ALG@tmpcounter=\count112
+\ALG@tmplength=\skip54
+)
+(C:\Users\Will\AppData\Roaming\MiKTeX\2.9\tex\latex\algorithmicx\algpseudocode.
+sty
+Package: algpseudocode 
+
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) (C:\Users\Will\AppData\Roaming\MiKTeX\2.9\tex\latex\algorithms\algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count113
+\float@exts=\toks21
+\float@box=\box28
+\@float@everytoks=\toks22
+\@floatcapt=\box29
+)
+\@float@every@algorithm=\toks23
+\c@algorithm=\count114
+)
+("C:\Users\Will\Documents\Papers\EWRL 2015 - PCA\EWRL_2015.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 40.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(C:\Users\Will\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count115
+\scratchdimen=\dimen124
+\scratchbox=\box30
+\nofMPsegments=\count116
+\nofMParguments=\count117
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count118
+\MPscratchDim=\dimen125
+\MPnumerator=\count119
+\makeMPintoPDFobject=\count120
+\everyMPtoPDFconversion=\toks25
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 64.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 64.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 64.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 66.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1
+
+{C:/Users/Will/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
+LaTeX Font Info:    Try loading font information for U+msa on input line 100.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 100.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+<Flowchart.pdf, id=11, 432.32417pt x 203.12085pt>
+File: Flowchart.pdf Graphic file (type pdf)
+ <use Flowchart.pdf>
+Package pdftex.def Info: Flowchart.pdf used on input line 121.
+(pdftex.def)             Requested size: 325.215pt x 152.79897pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 128.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 128.
+ [3]
+<Mario.pdf, id=20, 147.79617pt x 111.04486pt>
+File: Mario.pdf Graphic file (type pdf)
+ <use Mario.pdf>
+Package pdftex.def Info: Mario.pdf used on input line 145.
+(pdftex.def)             Requested size: 216.81pt x 162.91203pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[4 <C:/Users/Will/Documents/Papers/EWRL 2015 - PCA/Flowchart.pdf>]
+<PCA.pdf, id=29, 404.26634pt x 233.94502pt>
+File: PCA.pdf Graphic file (type pdf)
+ <use PCA.pdf>
+Package pdftex.def Info: PCA.pdf used on input line 167.
+(pdftex.def)             Requested size: 325.215pt x 188.20575pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[5 <C:/Users/Will/Documents/Papers/EWRL 2015 - PCA/Mario.pdf>]
+<PCA_Results.png, id=37, 1052.93375pt x 722.7pt>
+File: PCA_Results.png Graphic file (type png)
+ <use PCA_Results.png>
+Package pdftex.def Info: PCA_Results.png used on input line 182.
+(pdftex.def)             Requested size: 325.215pt x 223.21864pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[6 <C:/Users/Will/Documents/Papers/EWRL 2015 - PCA/PCA.pdf>]
+("C:\Users\Will\Documents\Papers\EWRL 2015 - PCA\EWRL_2015.bbl"
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 19.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+LaTeX Font Info:    Font shape `OT1/pcr/bx/n' in size <10> not available
+(Font)              Font shape `OT1/pcr/b/n' tried instead on input line 19.
+ [7 <C:/Users/Will/Documents/Papers/EWRL 2015 - PCA/PCA_Results.png>]) [8]
+("C:\Users\Will\Documents\Papers\EWRL 2015 - PCA\EWRL_2015.aux") ) 
+Here is how much of TeX's memory you used:
+ 4426 strings out of 494045
+ 63511 string characters out of 3145972
+ 119853 words of memory out of 3000000
+ 7643 multiletter control sequences out of 15000+200000
+ 27774 words of font info for 65 fonts, out of 3000000 for 9000
+ 715 hyphenation exceptions out of 8191
+ 42i,11n,40p,1297b,343s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program F
+iles (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files (x86)/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files (x86)/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files (x86)/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/t
+ype1/urw/courier/ucrb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/
+times/utmb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmr8
+a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on EWRL_2015.pdf (8 pages, 1360477 bytes).
+PDF statistics:
+ 88 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+

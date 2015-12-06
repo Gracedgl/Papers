@@ -1,0 +1,92 @@
+\begin{thebibliography}{13}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Pec()]{Pechenizkiy:features}
+
+
+\bibitem[Argall et~al.(2009)Argall, Chernova, Veloso, and
+  Browning]{Argall:2009:SRL:1523530.1524008}
+Brenna~D. Argall, Sonia Chernova, Manuela Veloso, and Brett Browning.
+\newblock A survey of robot learning from demonstration.
+\newblock \emph{Robot. Auton. Syst.}, 57\penalty0 (5):\penalty0 469--483, May
+  2009.
+\newblock ISSN 0921-8890.
+\newblock \doi{10.1016/j.robot.2008.10.024}.
+\newblock URL \url{http://dx.doi.org/10.1016/j.robot.2008.10.024}.
+
+\bibitem[Brys et~al.(2014)Brys, Harutyunyan, Vrancx, Taylor, Kudenko, and
+  Now{\'e}]{brys2014multi}
+Tim Brys, Anna Harutyunyan, Peter Vrancx, Matthew~E Taylor, Daniel Kudenko, and
+  Ann Now{\'e}.
+\newblock Multi-objectivization of reinforcement learning problems by reward
+  shaping.
+\newblock In \emph{International Joint Conference on Neural Networks (IJCNN)},
+  pages 2315--2322. IEEE, 2014.
+
+\bibitem[Brys et~al.(2015)Brys, Harutyunyan, Suay, Chernova, Taylor, and
+  Now\'e]{Brys2015IJCAI}
+Tim Brys, Anna Harutyunyan, Halit~Bener Suay, Sonia Chernova, Matthew~E.
+  Taylor, and Ann Now\'e.
+\newblock Reinforcement learning from demonstration through shaping.
+\newblock In \emph{Proceedings of the International Joint Conference on
+  Artificial Intelligence (IJCAI)}, 2015.
+
+\bibitem[Grzes and Kudenko()]{Grzes::mixed}
+M.~Grzes and D.~Kudenko.
+\newblock Reinforcement learning with reward shaping and mixed resolution
+  function approximation.
+\newblock \emph{nternational Journal of Agent Technologies and Systems
+  (IJATS),}, 1\penalty0 (2):\penalty0 6--54.
+
+\bibitem[Karakovskiy and Togelius(2012)]{karakovskiy2012mario}
+Sergey Karakovskiy and Julian Togelius.
+\newblock The {M}ario {AI} benchmark and competitions.
+\newblock \emph{Computational Intelligence and AI in Games, IEEE Transactions
+  on}, 4\penalty0 (1):\penalty0 55--67, 2012.
+
+\bibitem[Lee et~al.(2014)Lee, Luo, Zambetta, and Li]{lee2014learning}
+Geoffrey Lee, Min Luo, Fabio Zambetta, and Xiaodong Li.
+\newblock Learning a super mario controller from examples of human play.
+\newblock In \emph{Evolutionary Computation (CEC), 2014 IEEE Congress on},
+  pages 1--8. IEEE, 2014.
+
+\bibitem[Liao et~al.(2012)Liao, Yi, and Yang]{liao2012cs229}
+Yizheng Liao, Kun Yi, and Zhe Yang.
+\newblock Cs229 final report reinforcement learning to play mario.
+\newblock Technical report, Stanford University, USA, 2012.
+
+\bibitem[Liu and Mahadevan(2011)]{Liu11compressivereinforcement}
+Bo~Liu and Sridhar Mahadevan.
+\newblock Compressive reinforcement learning with oblique random projections,
+  2011.
+
+\bibitem[Pan and Yang(2010)]{5288526}
+Sinno~Jialin Pan and Qiang Yang.
+\newblock A survey on transfer learning.
+\newblock \emph{Knowledge and Data Engineering, IEEE Transactions on},
+  22\penalty0 (10):\penalty0 1345--1359, Oct 2010.
+\newblock ISSN 1041-4347.
+\newblock \doi{10.1109/TKDE.2009.191}.
+
+\bibitem[Shlens(2005)]{Shlens05atutorial}
+Jonathon Shlens.
+\newblock A tutorial on principal component analysis.
+\newblock In \emph{Systems Neurobiology Laboratory, Salk Institute for
+  Biological Studies}, 2005.
+
+\bibitem[Swinehart and Abbott(2005)]{Swinehart05dimensionalreduction}
+Christian~D. Swinehart and L.~F. Abbott.
+\newblock Dimensional reduction for reward-based learning, 2005.
+
+\bibitem[Turk and Pentland(1991)]{139758}
+M.A. Turk and A.P. Pentland.
+\newblock Face recognition using eigenfaces.
+\newblock In \emph{Computer Vision and Pattern Recognition, 1991. Proceedings
+  CVPR '91., IEEE Computer Society Conference on}, pages 586--591, Jun 1991.
+\newblock \doi{10.1109/CVPR.1991.139758}.
+
+\end{thebibliography}

@@ -1,0 +1,155 @@
+%File: formatting-instruction.tex
+
+\documentclass{sig-alternate}
+\newfont{\mycrnotice}{ptmr8t at 7pt}
+\newfont{\myconfname}{ptmri8t at 7pt}
+\let\crnotice\mycrnotice%
+\let\confname\myconfname%
+
+
+
+% Load basic packages
+\usepackage{balance}  % to better equalize the last page
+\usepackage{url}      % llt: nicely formatted URLs
+
+\usepackage{times}
+\usepackage{helvet}
+\usepackage{courier}
+\usepackage{graphicx}
+\usepackage{subcaption}
+
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{algorithmicx}
+\usepackage{algpseudocode}
+\usepackage{algorithm}
+
+
+% llt: Define a global style for URLs, rather that the default one
+\makeatletter
+\def\url@leostyle{%
+  \@ifundefined{selectfont}{\def\UrlFont{\sf}}{\def\UrlFont{\small\bf\ttfamily}}}
+\makeatother
+\urlstyle{leo}
+
+% To make various LaTeX processors do the right thing with page size.
+\def\pprw{8.5in}
+\def\pprh{11in}
+\special{papersize=\pprw,\pprh}
+\setlength{\paperwidth}{\pprw}
+\setlength{\paperheight}{\pprh}
+\setlength{\pdfpagewidth}{\pprw}
+\setlength{\pdfpageheight}{\pprh}
+
+% Make sure hyperref comes last of your loaded packages, 
+% to give it a fighting chance of not being over-written, 
+% since its job is to redefine many LaTeX commands.
+\usepackage[pdftex]{hyperref}
+\hypersetup{
+pdftitle={SIGCHI Conference Proceedings Format},
+pdfauthor={LaTeX},
+pdfkeywords={SIGCHI, proceedings, archival format},
+bookmarksnumbered,
+pdfstartview={FitH},
+colorlinks,
+citecolor=black,
+filecolor=black,
+linkcolor=black,
+urlcolor=black,
+breaklinks=true,
+}
+
+
+\DeclareMathOperator*{\argmin}{argmin}
+
+%\makeatletter
+%\let\@copyrightspace\relax
+%\makeatother
+
+% if you are using PDF LaTex and you cannot find a way for producing
+% letter, the following explicit settings may help
+
+%\pdfpagewidth=8.5truein
+%\pdfpageheight=11truein
+
+\begin{document}
+
+
+%\TitleForCitationInfo{Extending the Difference Reward to Multi-Objective Reinforcement Learning}
+
+\title{Developing Learning from Demonstration Techniques for Individuals with Physical Disabilities}
+
+\numberofauthors{2}
+\author{
+  \alignauthor William Curran\\
+    \affaddr{Oregon State University}\\
+    \affaddr{Corvallis, Oregon}\\
+    \email{curranw@onid.orst.edu}\\
+  \alignauthor William D. Smart\\
+    \affaddr{Oregon State University}\\
+    \affaddr{Corvallis, Oregon}\\
+    \email{bill.smart@oregonstate.edu}\\ 
+}
+%\author{William Curran \\
+%Oregon State University \\
+%Corvallis, Oregon \\
+%curranw@onid.orst.edu \\
+
+%Adrian Agogino \\
+%NASA AMES Research Center \\
+%Moffet Field, California \\
+%adrian.k.agogino@nasa.gov \\
+%}
+
+
+\maketitle
+
+
+\section{Introduction}
+The main goal for our research is to put robots into real homes to help those with severe physical disabilities. These
+individuals have minimal ability to move and speak, and need extended care all day, every day. The strain on families needing to take care of these individuals is enormous, and it has been shown that inexperienced family caregivers use prescription drugs for depression, anxiety, and insomnia two to three times more often than the average population \cite{Gallagher01081989}. Robotics can be used to assist those with extreme disabilities and remove much of this burden on the family.
+
+These disabled individuals are often non-experts, and currently cannot be part of the development process. Yet, most don't want to wait for someone to program autonomous behaviors for all household tasks. We propose to give disabled non-expert users the tools to teach the robot these tasks by themselves. %This will give the disabled user both independence and personal customization.
+
+%We promote using a learning from demonstration approach to allow disabled users to teach their assistive robot. Using demonstrations to initialize reinforcement learning provides supervised training data of what actions to perform in states that are encountered \cite{Bagnell_2013_7451}. Using this initialization, the robot can perform the task to a small degree, and the user can take the role of a teacher, giving feedback.
+
+%We use a learning from demonstration approach to allow disabled users to teach their assistive robot. In learning from demonstration, users show the robot what actions to execute to perform a task. These user demonstrations are training data for the reinforcement learning algorithm \cite{Bagnell_2013_7451}. Using this initialization, the robot can attempt to perform the task, and the user can give feedback as a teacher. Good demonstrations and timely feedback are key assumptions in learning from demonstration approaches \cite{Argall:2009:SRL:1523530.1524008}. However, our user base is people who suffer from severe physical disabilities. They can't provide a good or timely demonstrations or feedback to guide the learning. These individuals need specially designed interfaces and tools.
+
+%However, our user base is people who suffer from severe physical disabilities. These individuals require specially designed interfaces and tools. This work will look at how to apply learning from demonstration for people who can't provide a good or timely demonstrations, and who cannot provide timely feedback to guide the learning.
+
+%There are two key difficulties with learning from demonstration interfaces for individuals with disabilities, and resolving them are the key contributions of this work. The ability to perform good demonstrations and give timely feedback are key assumptions in learning from demonstration research \cite{Argall:2009:SRL:1523530.1524008}. Additionally, state-of-the-art personal robots need to perform complex manipulation tasks to be viable in assistive scenarios. These complex robots lead to large dimensional state spaces, known as the curse of dimensionality \cite{Bagnell_2013_7451}. 
+
+%Good demonstrations and timely feedback are key assumptions in learning from demonstration research \cite{Argall:2009:SRL:1523530.1524008}. 
+
+State-of-the-art personal robots need to perform complex manipulation tasks to be viable in assistive scenarios. These complex manipulations need high degree-of-freedom arms and manipulators. The complexity of these robots lead to large dimensional state spaces, which are difficult to learn in. %Additionally, the generalization of motor skills to similar tasks become especially important when demonstrations are difficult to perform. This also becomes more difficult in higher-dimensional state spaces. 
+
+%To alleviate these issue, we promote developing a movie-reel style interface for detailed, yet time insensitive feedback. We also wish to analyze the efficacy of transforming a high-dimensional demonstration to a low-dimensional space, performing reinforcement learning in that space, and executing the learned trajectory back in the high-dimensional space. 
+
+The contributions of the completed work will be to develop a robust, generalizable, and fast learning from demonstration technique. We transform a high-dimensional demonstration to a low-dimensional space. We then perform reinforcement learning in that space, and then execute the learned trajectory back in the high-dimensional space. This reduces the number of demonstrations and increases the resistance to suboptimal outliers. These are desirable characteristics for non-expert use of the learning algorithm.
+
+
+\section{Learning from Demonstration in High-Dimensional Spaces}
+\label{LfD in HD}
+
+
+State-of-the-art personal robots need to perform complex manipulation tasks to be viable in assistive scenarios. These complex manipulations need high degree-of-freedom arms and manipulators. For example, the PR2 robot has two 7 DoF arms. When learning position, velocity and acceleration control, this leads to a 21 dimensional state space per arm. Learning in these large dimensional spaces becomes computationally intractable without optimization techniques. Furthermore, personal robots need to generalize learned motor skills between similar tasks. This also becomes difficult in these high-dimensional spaces \cite{Pastor_ICRA_2009}.
+
+To handle these high-dimensional spaces, our plan is to first perform dimensionality reduction on a set of demonstrated trajectories. We will use Principal Component Analysis to transform the high-dimensional space to a subspace. We then learn trajectories using the new subspace, and transform back to the high-dimensional space. By transforming to a smaller subspace, learning from demonstration techniques will converge faster to a solution.
+
+By parameterizing the motor primitives, we will be able to generalize motor skills to similar tasks.  This will reduce the number of different demonstrations required. We hypothesize that transforming trajectories to a lower dimensional space will make it easier to parameterize the task-based motor primitives. Additionally, dimensionality reduction smooths the lower-dimensional trajectory. We hypothesize that this makes the learning more robust to suboptimal outliers caused by human error. Increasing the robustness to human error in demonstrations and reducing the number of demonstrations are essential. Since we work with individuals with disabilities, demonstrations are difficult, and expect suboptimal demonstrations. Since demonstrations are difficult, fewer demonstrations are also a desirable quality.
+
+Preliminary work has shown that while performing a complex sheet folding task, the first principal component represents 58\% and 33\% of the variance in position and velocity. Additionally, first three principal components represent 85\% of all the variance in the position data and 75\% of all the variance in velocity data. This reinforces the hypothesis that we can represent a high-dimensional trajectory in a low-dimensional space.
+
+
+\section{Conclusion}
+
+Those suffering from ALS and quadriplegia need assistive robots now. These individuals cannot wait for someone to program autonomous behaviors for all household tasks.  This work intends to help those suffering from severe physical disabilities by giving them the ability to teach the robot themselves.
+
+This work introduces a new learning from demonstration technique that utilizes human demonstration from non-experts. This requires robots to learn from human demonstrations, even when those demonstrations are suboptimal. By learning in a lower-dimensional space, we hypothesize that it will be easier to generalize between similar tasks and ease the learning of trajectories with outliers.
+
+With these new learning advances, individuals with disabilities will be able to do day-to-day tasks without help from others. The lack of a human assistant performing the task and the addition of positive experiences like teaching, doing it yourself, and being more independent increases the quality of life for people with extreme disabilities.
+
+\bibliographystyle{acm-sigchi}
+\bibliography{thesis}
+
+\end{document}

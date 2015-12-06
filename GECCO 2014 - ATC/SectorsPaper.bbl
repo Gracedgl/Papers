@@ -1,0 +1,122 @@
+\begin{thebibliography}{10}
+
+\bibitem{AAMAS12-agmon}
+Noa Agmon and Peter Stone.
+\newblock Leading ad hoc agents in joint action settings with multiple
+  teammates.
+\newblock In {\em Proc. of 11th Int. Conf. on Autonomous Agents and Multiagent
+  Systems (AAMAS 2012)}, June 2012.
+
+\bibitem{tumer-agogino_jaamas08}
+A.~K. Agogino and K.~Tumer.
+\newblock Analyzing and visualizing multiagent rewards in dynamic and
+  stochastic environments.
+\newblock {\em Journal of Autonomous Agents and Multi-Agent Systems},
+  17(2):320--338, 2008.
+
+\bibitem{tumer-agogino_jaamas12}
+A.~K. Agogino and K.~Tumer.
+\newblock A multiagent approach to managing air traffic flow.
+\newblock {\em Autonomous Agents and MultiAgent Systems}, 24:1--25, 2012.
+\newblock (DOI: 10.1007/s10458-010-9142-5).
+
+\bibitem{Bertsimas}
+D.~Bertsimas and S.S. Patterson.
+\newblock The air traffic flow management problem with enroute capacities.
+\newblock In {\em May-June 1998, pp. 406–422}, 1998.
+
+\bibitem{FACET}
+B.~Sridhar G. B. Chatterji K. S.~Shethand Bilimoria, K.~D. and S.~R. Grabbe.
+\newblock Facet: Future atm concepts evaluation tool.
+\newblock {\em Air Traffc Control Quarterly}, 9:1, 2001.
+
+\bibitem{faa05}
+FAA~OPSNET data Jan-Dec~2011.
+\newblock {US} {D}epartment of {T}ransportation website.
+\newblock (http://www.faa.gov/data\_statistics/), 2011.
+
+\bibitem{Agglomerative}
+William~H.E. Day and Herbert Edelsbrunner.
+\newblock Efficient algorithms for agglomerative hierarchical clustering
+  methods.
+\newblock In {\em Journal of Classification}, number~1 in 7-24, 1984.
+
+\bibitem{Hardin}
+G.~Hardin.
+\newblock The tragedy of the commons.
+\newblock {\em Science}, 162:1243–1248, December 1968.
+
+\bibitem{Junges:2008:EPD:1402298.1402308}
+Robert Junges and Ana L.~C. Bazzan.
+\newblock Evaluating the performance of dcop algorithms in a real world,
+  dynamic problem.
+\newblock In {\em Proceedings of the 7th international joint conference on
+  Autonomous agents and multiagent systems - Volume 2}, AAMAS '08, pages
+  599--606, Richland, SC, 2008. International Foundation for Autonomous Agents
+  and Multiagent Systems.
+
+\bibitem{5509316}
+G.A. Kaminka, D.~Erusalimchik, and S.~Kraus.
+\newblock Adaptive multi-robot coordination: A game-theoretic perspective.
+\newblock In {\em Robotics and Automation (ICRA), 2010 IEEE International
+  Conference on}, pages 328 --334, may 2010.
+
+\bibitem{Kok:2006:CMR:1248547.1248612}
+Jelle~R. Kok and Nikos Vlassis.
+\newblock Collaborative multiagent reinforcement learning by payoff
+  propagation.
+\newblock {\em J. Mach. Learn. Res.}, 7:1789--1828, December 2006.
+
+\bibitem{Panait}
+Keith~Sullivan Liviu~Panait and Sean Luke.
+\newblock Lenience towards teammates helps in cooperative multiagent learning.
+\newblock In {\em Proceedings of the Fifth International Joint Conference on
+  Autonomous Agents and Multi Agent Systems}, 2006.
+
+\bibitem{Modi:2005:AAD:1120120.1120127}
+Pragnesh~Jay Modi, Wei-Min Shen, Milind Tambe, and Makoto Yokoo.
+\newblock Adopt: asynchronous distributed constraint optimization with quality
+  guarantees.
+\newblock {\em Artif. Intell.}, 161(1-2):149--180, January 2005.
+
+\bibitem{Rios}
+J.~Rios and J.~Lohn.
+\newblock A comparison of optimization approaches for nationwide traffic flow
+  management.
+\newblock In {\em Proceedings of the AIAA Guidance, Navigation, and Control
+  Conference, Chicago, Illinois}, August 2009.
+
+\bibitem{Sridhar}
+B.~Sridhar, S.R. Grabbe, and A.~Mukherjee.
+\newblock Modeling and optimization in traffic flow management.
+\newblock {\em Proceedings of the IEEE}, 96(12):2060 --2080, dec. 2008.
+
+\bibitem{664154}
+C.~Tomlin, G.J. Pappas, and S.~Sastry.
+\newblock Conflict resolution for air traffic management: a study in multiagent
+  hybrid systems.
+\newblock {\em Automatic Control, IEEE Transactions on}, 43(4):509 --521, apr
+  1998.
+
+\bibitem{Coordination}
+N.~Vlassis, R.~Elhorst, and J.~R. Kok.
+\newblock Anytime algorithms for multiagent decision making using coordination
+  graphs.
+\newblock In {\em International Conference on Systems, Man and Cybernetics},
+  2004.
+
+\bibitem{Sislak:2008:AMA:1402744.1402755}
+David \v{S}i\v{s}l\'{a}k, P\v{r}emysl Volf, \v{S}t\v{e}p\'{a}n Kop\v{r}iva, and
+  Michal P\v{e}chou\v{c}ek.
+\newblock Agentfly: a multi-agent airspace test-bed.
+\newblock In {\em Proceedings of the 7th international joint conference on
+  Autonomous agents and multiagent systems: demo papers}, AAMAS '08, pages
+  1665--1666, Richland, SC, 2008. International Foundation for Autonomous
+  Agents and Multiagent Systems.
+
+\bibitem{tumer-wolpert_jair02}
+D.~H. Wolpert and K.~Tumer.
+\newblock Collective intelligence, data routing and {B}raess' paradox.
+\newblock {\em Journal of Artificial Intelligence Research}, 16:359--387, 2002.
+
+\end{thebibliography}
