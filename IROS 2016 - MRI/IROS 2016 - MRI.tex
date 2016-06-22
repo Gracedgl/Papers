@@ -1,0 +1,152 @@
+\documentclass[letterpaper, 10 pt, conference]{ieeeconf}
+\overrideIEEEmargins
+\IEEEoverridecommandlockouts
+
+\usepackage[utf8]{inputenc}
+\usepackage{times}
+\usepackage{helvet}
+\usepackage{courier}
+\frenchspacing
+\setlength{\pdfpagewidth}{8.5in}
+\setlength{\pdfpageheight}{11in}
+
+\setcounter{secnumdepth}{2}
+
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+
+\begin{document}
+
+
+\title{\LARGE \bf Fancy Movie Reel Interface}
+
+\author{William Curran$^{1}$ and William D. Smart$^{1}$% <-this % stops a space
+\thanks{$^{1}$William Curran and William D. Smart are with Oregon State University, Corvallis, United States
+        {\tt\small curranw@oregonstate.edu and bill.smart@oregonstate.edu}}%
+}
+ 
+\maketitle
+\thispagestyle{empty}
+\pagestyle{empty}
+%http://www.ece.rochester.edu/projects/rail/mlhrc2015/papers/mlhrc-rss15-boniardi.pdf
+\begin{abstract}
+Abstract
+
+\end{abstract}
+\section{Introduction}
+
+
+\section{Background}
+To motivate our approach, we outline previous work performed in the field of...
+
+
+\subsection{Human Feedback Mechanisms}
+Human feedback mechanisms are tools that allow users to give feedback to an agent. The agent can use this feedback to modify it's learned policy based on user preference. It then executes the newly learned policy and the user can give additional feedback. This cycle continues until the agent has learned an adequate policy, as defined by the user. Researchers have developed a variety of these tools focused on making them both intuitive and detailed. Intuitive feedback tools tend to use mechanisms that are natural to users, such as voice \cite{cakmak12hri} or kinesthetic (\cite{cakmak12hri} and find another), while detailed mechanisms use graphical interfaces that are less natural, but allow for high-fidelity feedback \cite{Thomaz:2006:RLH:1597538.1597696,Harutyunyan:2015:SMH:2772879.2773501}. However, many feedback mechanisms are not detailed enough for fine-grained feedback, do not account for continuous spaces, or require the user to give time-sensitive feedback.
+
+The work by Cakmak and Thomaz used Active Learning (AL) and Learning from Demonstration (LfD) as a mechanism for natural feedback. In that work, the robot could query the user to guide exploration and learning, while the user could also query the robot to better understand what was being learned. The robot could also ask the user to kinesthetically demonstrate how to perform tasks in areas of the state space of high uncertainty. This is an effective mechanism for intuitive and time-insensitive feedback, but it does not allow the user to give detailed feedback on important parts of the state space. In our work, the movie-reel style interface gives the user fine-grained control over the policy execution for detailed feedback.
+
+Rather than use natural feedback, the work by Harutyunyan et al. the humans interactively advise a Mario agent via a button that gives the agent positive rewards \cite{Harutyunyan:2015:SMH:2772879.2773501}. The human gives advise for the first 5 episodes, and then the agent continues learning on it's own for the rest of the trial. They find that with this initial advise, the Mario agent learns a better policy at a faster rate. The work by Thomaz and Breazeal developed a more advanced interface that let's a human reward the agent a variety of rewards during policy execution \cite{Thomaz:2006:RLH:1597538.1597696}. In that work, the human can, at any point in the operation, reward the agent with a scalar reward between -1 and 1. This allows the human to give continuous feedback over a range of states. However, both of these works require quick actions by the human. The human must be paying close attention during the policy execution, and can miss giving feedback on early actions that affect later states. The work is also constrained to high-level and intuitive actions. Our movie-reel style interface alleviates this issue by using fast-forwarding, rewinding and pausing.
+
+TODO: Tamer. Time-Sensitive.
+
+%\begin{itemize}
+%\item Policy Shaping: Integrating Human Feedback with Reinforcement Learning
+%\begin{itemize}
+%\item ''It is possible that the human may know any number of different optimal actions in a state, the probability an action, a, in a particular state, s, is optimal is independent of what labels were provided to the other actions.``
+%
+%\item Assumes that the optimal action is related to the binomial distribution based on the difference between the number of right and wrong labels associated with a state action. This doesn't make sense for low-level actions...like torque and velocity.  
+%\end{itemize}
+%\item Reinforcement Learning with Human Teachers : Evidence of Feedback and Guidance with Implications for Learning Performance
+%
+%\begin{itemize}
+%\item This paper is a more complex version of Sophie's Kitchen. In Sophie's Kitchen, a human can, at any point in the operation, reward the agent with a scalar reward between -1 and 1. Learning runs asynchronously to the interactive human reward.
+%
+%\item This work requires quick actions by the user. The user must be paying close attention during learning. Not great for people with disabilities, and also requires a lot of effort.
+%
+%\item Continuous feedback over a range of states. Just like ours.
+%
+%\item Found that people want to give guiding rewards, rather than rewards over the last action. 
+%
+%\item Our approach has inherent guidance. The user can gives rewards to guide exploration.
+%
+%\item They take random actions associated with a user-defined guidance. Do we want to do this?  
+%\end{itemize}
+%
+%\item Integrating reinforcement learning with human demonstrations of varying ability
+%
+%\begin{itemize}
+%\item Learning from Demonstration approach. Isn't necessarily bad, but more of a policy development approach than human feedback incorporation. It also doesn't work if you can't give demonstrations.
+%
+%\item Our work can be extended to also use this approach. 
+%\end{itemize}
+%\item Shaping Mario with Human Advice
+%
+%\begin{itemize}
+%\item hi
+%\end{itemize}
+
+
+\subsection{Human Feedback Integration}
+Once a human has given feedback, there are a variety of techniques that have been developed to integrate this feedback into the learning algorithm. One way to incorporate human feedback is to employ a Learning from Demonstration (LfD) approach. Learning a policy using traditional reinforcement learning is difficult in real-world applications. Initializing, or bootstrapping, the policy close to the desired robot behavior makes finding an optimal or near-optimal solution easier. LfD learns a policy using examples or demonstrations provided by a human. These examples are typically state-action pairs that are recorded during the teacher's demonstration. These state-action samples are used to initialize a policy that can then either be directly utilized, or improved using reinforcement learning \cite{Argall:2009:SRL:1523530.1524008}.
+
+There are a variety of techniques that LfD algorithms use when deriving a policy. The demonstrated data can be used to initialize a policy \cite{4058714}, develop a reward function \cite{Thomaz:2006:RLH:1597538.1597696}, or build a state transition function \cite{Argall:2009:SRL:1523530.1524008}. Learning from Demonstration techniques begin to break down when the task is too complex for the human to demonstrate (cite), the robot is too complex for the human to use (cite), or when the human is incapable of demonstrating (cite). Since our work is a human feedback mechanism, it is learning technique agnostic and can be easily combined with these LfD approaches.
+
+Researchers have also developed techniques to modify the policy directly. Griffith et al. developed a policy shaping technique called \textbf{Advise} \cite{NIPS2013_5187} that leverages human feedback directory by using the feedback as policy labels. They assume that the human adviser knows the different optimal actions in a state and the state transition of taking an action. They then use these policy labels to guide learning. \textbf{Advise} effectively incorporates human feedback into the learning process, but requires the user to intuitively understand the effects of taking an action, and knowing whether those effects are positive or negative. In our work, we require feedback on motor primitives. Motor primitive actions do not have an intuitive state transition, especially in higher dimensional problems (TODO: Do I need to cite this?). 
+
+The last technique uses human feedback to more efficiently explore the state space. Knox and Stone developed \textit{Action Biasing} and \textit{Control Sharing} strategies for using human feedback to modify the policy \cite{Knox:2012:RLS:2343576.2343644}. \textit{Action Biasing} uses positive and negative human feedback to bias the action selection mechanism of Q Learning. They add the human feedback reward to the learned Q-Value when choosing the next action to take. Alternatively, \textit{Control Sharing} modifies the action selection mechanism by transitioning between using the best action during feedback and the learned best action. Both of these strategies are promising and can be easily combined with our learning approach.  
+
+
+%\begin{itemize}
+%\item Should I compare?
+%\begin{itemize}
+%\item Action Biasing: Action selection mechanism changes to $Q(s,a) + H(s,a)$, where $H(s,a)$ is feedback reward.
+%\item Control Sharing: Switches policies between a human-feedback policy and a learned policy. Seems similar to PPR.
+%\item Reward Shaping: What we do.
+%\item \textbf{Advise}: Using inaccurate and accurate feedback to directly shape the policy. No reward feedback. Uses the difference between the number of right and wrong labels and uses that to compute the the probability that $s,a$ is optimal. This assumes the user knows the optimal action. It uses Bayes theory to directly compute the probability of taking the user-defined $s,a$. Works well with multiple feedback policies and minimizes exploration since it directly modifies the policy, rather than reward.  
+%\item Probabilistic Policy Reuse: Use demonstrated policy (or feedback) with a probability. Lower probability over time.
+%\end{itemize}
+%\end{itemize}
+%\end{itemize}
+
+\subsection{Reinforcement Learning}
+In our reinforcement learning (RL) approach, we use the standard formulation of MDPs \cite{Kaelbling:1996:RLS:1622737.1622748}. An MDP is a 4-tuple $\langle S,A,T,R \rangle$, where $S$ is a set of states, $A$ is a set of actions, $T$ is a probabilistic state transition function $T(s,a,s')$, and $R$ is the reward function $R(s,a)$. 
+
+In this work, we use function approximation for generalization. CMACs \cite{brains-behavior-robotics} partition a state space into a set of overlapping tiles, and maintain the weights ($\theta$) of each tile. The accuracy of the generalization is improved as the number of tilings ($n$) increases. Each tile has an associated binary value ($\phi$) to indicate whether that tile is present in the current state. 
+
+The estimate of the value function is:
+%
+\begin{equation}
+Q_t(s,a) = \sum_i^n \theta(i)\phi(i)
+\end{equation}
+%
+where $Q_t(s,a)$ is the estimated value function, $\theta$ is the weight vector and $\phi$ is a component vector. Given a learning example, we adjust the weights of the involved tiles by the same amount to reduce the error. We use standard model-free Q-Learning to update our function approximation:
+%
+\begin{align}
+ Q_{t+1}(s_t, a_t) = & Q_t(s_t, a_t) + \alpha (R_{t+1}(s_t,a_t) \\
+& + \gamma \max_aQ_t(s_{t+1},a) - Q_t(s_t, a_t)) \nonumber
+\end{align}
+%
+where $\alpha$ is the learning rate, and $\gamma$ is a discount factor between 0 and 1 that represents the importance of future rewards.
+
+A significant amount of research in RL focuses on increasing the speed of learning by taking advantage of domain knowledge. Some techniques include agent partitioning, which focuses mainly on how to divide the problem by the state space, actions, or goals \cite{Curran:2013:AHC:2484920.2485183,716791,Reddy_learninggoal-decomposition}; generalizing over the state space with techniques such as tile coding \cite{whiteson:tr07}, neural networks \cite{Haykin:1998:NNC:521706}, or k-nearest neighbors \cite{tdknn}; and learning with temporally defined actions, such as options \cite{Sutton:1999:MSF:319103.319108}. Our framework is designed to be used with these approaches. In this paper, we use the title coding generalization. 
+
+
+\section{MRI}
+\label{MRI}
+Interfaces used for continuous space manipulation have been around for a while, but have a history of being used in video editing. Software such as iMovie, Windows Movie Maker, and Blender use a movie-reel style interface for manipulating video streams. Movie-Reel style software provides functionality to annotate, concatenate, cut and perform a wide range of tasks to video.  
+
+fast forward, rewind, pause, play, and step through video 
+
+To incorporate time-insensitive, continuous and detailed feedback, we propose a movie-reel style interface. Movie-reel style interfaces 
+
+
+\subsection{Rewards Interface}
+
+
+
+\section{Conclusion and Future Work}
+\bibliographystyle{plain}
+\bibliography{thesis}
+\end{document}
